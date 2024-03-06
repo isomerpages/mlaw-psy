@@ -7,21 +7,13 @@ permalink: /
 notification: Here's a notification bar you can use!
 sections:
   - hero:
-      subtitle: Hero subtitle
+      subtitle: Singapore
       background: /images/hero-banner.png
-      button: Contact Us
-      url: /contact-us/
-      key_highlights:
-        - title: File an application
-          description: ""
-          url: https://google.com
-        - title: FREQUENTLY ASKED QUESTIONS
-          description: ""
-          url: https://gmail.com
-  - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
-      url: /faq/
+      title: Panel of Psychiatrists
+      dropdown:
+        title: I'd like to...
+        options: []
+  - resources:
+      title: Latest updates
+      id: resources
 ---
