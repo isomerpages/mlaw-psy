@@ -7,7 +7,8 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      subtitle: The Panel of Psychiatrists is ... [2 sentences]
+      subtitle: A court-administered panel which psychiatrists must be on before they
+        can give expert evidence in Singapore criminal court proceedings.
       background: /images/hero-banner.png
       title: Panel of Psychiatrists
       button: About Us
