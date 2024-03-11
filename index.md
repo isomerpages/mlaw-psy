@@ -16,4 +16,22 @@ sections:
   - resources:
       title: Resources
       id: resources
+  - textcards:
+      title: Learn more
+      id: textcards
+      cards:
+        - title: "Appointments to the Panel "
+          description: "Find out more about appointments to the Panel, revocations, and
+            more. "
+          linktext: Learn more
+          url: /background-appointment/
+        - title: Appointed psychiatrists
+          description: Find a psychiatrist who has been appointed to the Panel.
+          linktext: Learn more
+          url: /appointed-members/
+        - title: Duties of psychiatrists to the court
+          description: Find out more about a psychiatrist's duties giving expert evidence
+            in court.
+          linktext: Learn more
+          url: ""
 ---
