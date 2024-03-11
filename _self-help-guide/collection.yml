@@ -1,4 +1,5 @@
 collections:
   self-help-guide:
     output: true
-    order: []
+    order:
+      - Which form to use?.md
