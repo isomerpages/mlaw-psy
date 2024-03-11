@@ -20,9 +20,8 @@ sections:
       title: Learn more
       id: textcards
       cards:
-        - title: "Appointments to the Panel "
-          description: "Find out more about appointments to the Panel, revocations, and
-            more. "
+        - title: Appointments to the Panel
+          description: Find out more about appointments to the Panel, revocations, and more.
           linktext: Learn more
           url: /background-appointment/
         - title: Appointed psychiatrists
