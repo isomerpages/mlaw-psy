@@ -2,11 +2,11 @@ logo: /images/isomer-logo.svg
 links:
   - title: About Us
     url: /about-us/
+  - title: Self-help Guide
+    url: /self-help-guide/
   - title: Forms
-    url: /forms
+    url: /forms/
   - title: Frequently asked questions
     url: /faqs
   - title: Contact Us
     url: /contact-us/
-  - title: Self-help Guide
-    url: /self-help-guide/
