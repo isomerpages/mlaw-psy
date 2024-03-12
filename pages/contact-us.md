@@ -5,9 +5,9 @@ permalink: /contact-us/
 agency_name: the Selection Committee
 contacts:
   - content:
-      - phone: +65 6123 4567
-      - email: enquiries@abc.gov.sg
-      - other: Any text here <i>including HTML</i>
-    title: General Enquiries & Feedback
+      - phone: ""
+      - email: XXX@gov.sg
+      - other: ""
+    title: "Email us at:"
 feedback: ""
 ---
