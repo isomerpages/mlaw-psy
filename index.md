@@ -23,7 +23,7 @@ sections:
         - title: Appointments to the Panel
           description: Find out more about appointments to the Panel, revocations, and more.
           linktext: Learn more
-          url: /resources/self-help-guide/appointments-and-revocations/
+          url: /resources/self-help-guide/background-info/
         - title: Appointed psychiatrists
           description: Find a psychiatrist who has been appointed to the Panel.
           linktext: Learn more
