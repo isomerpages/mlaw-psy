@@ -27,7 +27,7 @@ sections:
         - title: Appointed psychiatrists
           description: Find a psychiatrist who has been appointed to the Panel.
           linktext: Learn more
-          url: /appointed-members/
+          url: /resources/appointed-psychiatrists/list/
         - title: Duties of psychiatrists to the court
           description: Find out more about a psychiatrist's duties giving expert evidence
             in court.
