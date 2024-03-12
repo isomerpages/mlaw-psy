@@ -2,13 +2,11 @@ logo: /images/isomer-logo.svg
 links:
   - title: About Us
     url: /about-us/
-  - title: Self-help Guide
-    url: /resources/self-help-guide/
-  - title: Forms
-    url: /resources/forms/
-  - title: Frequently asked questions
+  - title: Appointed psychiatrists
+    url: /resources/appointed-psychiatrists/list/
+  - title: Resources
+    url: /resources/
+  - title: FAQs
     url: /faqs
   - title: Contact Us
     url: /contact-us/
-  - title: Appointed psychiatrists
-    url: /resources/appointed-psychiatrists/list/
