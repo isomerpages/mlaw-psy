@@ -23,7 +23,7 @@ sections:
         - title: Appointments to the Panel
           description: Find out more about appointments to the Panel, revocations, and more.
           linktext: Learn more
-          url: /background-appointment/
+          url: /resources/self-help-guide/appointments-and-revocations/
         - title: Appointed psychiatrists
           description: Find a psychiatrist who has been appointed to the Panel.
           linktext: Learn more
@@ -32,5 +32,5 @@ sections:
           description: Find out more about a psychiatrist's duties giving expert evidence
             in court.
           linktext: Learn more
-          url: ""
+          url: /resources/self-help-guide/duties-of-psychiatrists-witnesses/
 ---
