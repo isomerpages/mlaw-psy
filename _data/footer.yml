@@ -2,9 +2,4 @@ contact_us: /contact-us/
 show_reach: true
 feedback: https://form.gov.sg/65efb02fc89f9e178e11a3fe
 faq: /faq/
-social_media:
-  facebook: https://www.facebook.com/YourFBPage
-  twitter: https://www.twitter.com/YourTwitter
-  youtube: https://www.youtube.com/YourYoutube
-  instagram: https://www.instagram.com/your.insta/
-  linkedin: https://www.linkedin.com/company/YourAgency
+social_media: {}
