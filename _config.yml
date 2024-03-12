@@ -1,6 +1,6 @@
-title: Title
+title: Panel of Psychiatrists
 url: https://www.open.gov.sg
-favicon: /images/favicon-isomer.ico
+favicon: /images/Psych_Panel_logo.png
 colors:
   primary-color: "#2a4aa8"
   secondary-color: "#4280c8"
@@ -15,7 +15,7 @@ colors:
       color: "#1e80d4"
     - title: media-color-five
       color: "#1567d5"
-description: An Isomer site of the Singapore Government
+description: ""
 permalink: none
 baseurl: ""
 exclude:
