@@ -32,5 +32,5 @@ sections:
           description: Find out more about a psychiatrist's duties giving expert evidence
             in court.
           linktext: Learn more
-          url: /resources/self-help-guide/duties-of-psychiatrists-witnesses/
+          url: /resources/self-help-guide/duties/
 ---
