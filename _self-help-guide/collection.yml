@@ -1,5 +1,0 @@
-collections:
-  self-help-guide:
-    output: true
-    order:
-      - Which form to use?.md
