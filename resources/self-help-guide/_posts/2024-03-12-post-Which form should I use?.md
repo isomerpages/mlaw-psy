@@ -22,6 +22,7 @@ again, please use <strong><u>Form 3</u></strong>.</p>
 be appointed again, please use <strong><u>Form 4</u></strong>.</p>
 <p></p>
 <h4>If you were appointed when you were a psychiatrist in training, and have since completed your training</h4>
-<h4></h4>
+<p>Please update the Secretariat on the completion of your training using <strong><u>Form 5</u></strong>.</p>
+<p></p>
 <h4>If you wish to lodge a complaint against a psychiatrist who has been appointed to the Panel of Psychiatrists</h4>
 <p>If you</p>
