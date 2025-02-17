@@ -7,6 +7,7 @@ description: ""
 image: ""
 variant: tiptap
 ---
+<p>Last updated: [date]</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -64,4 +65,4 @@ variant: tiptap
 </tbody>
 </table>
 <p></p>
-<p>Last updated: [date]</p>
+<p></p>
