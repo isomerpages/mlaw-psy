@@ -21,7 +21,7 @@ sections:
       id: textcards
       cards:
         - title: Appointments to the Panel
-          description: Find out more about appointments to the Panel, revocations, and more.
+          description: Learn about appointments to the Panel, revocations, and more.
           linktext: Learn more
           url: /resources/self-help-guide/appointments/
         - title: Appointed psychiatrists
@@ -29,8 +29,7 @@ sections:
           linktext: Learn more
           url: /resources/appointed-psychiatrists/list/
         - title: Duties of psychiatrists to the court
-          description: Find out more about a psychiatrist's duties giving expert evidence
-            in court.
+          description: Learn about a psychiatrist's duties giving expert evidence in court.
           linktext: Learn more
           url: /resources/self-help-guide/duties/
 ---
