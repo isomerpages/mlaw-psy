@@ -10,7 +10,10 @@ variant: tiptap
 <h4>If you are a psychiatrist or psychiatrist in training interested in being appointed to the Panel of Psychiatrists</h4>
 <p>If you are applying to be appointed to the Panel of Psychiatrists for
 the first time, or if your previous application for appointment had been
-refused, use <a href="https://form.gov.sg/65e83561279a4e9119dcf5a2" rel="noopener noreferrer nofollow" target="_blank">Form 1</a>.</p>
+refused, use <a href="https://form.gov.sg/65e83561279a4e9119dcf5a2" rel="noopener noreferrer nofollow" target="_blank">Form 1A</a> (if
+you are a psychiatry resident or psychiatrist registered with the Singapore
+Medical Council (SMC)), or <a href="https://form.gov.sg/682fd0591acd13ac45d05af6" rel="noopener nofollow" target="_blank">Form 1B</a> (if
+you are not registered with SMC e.g. foreign-registered psychiatrist).</p>
 <p></p>
 <p>If you currently already hold an appointment on the Panel of Psychiatrists
 and wish to renew your appointment for another term, please use <a href="https://form.gov.sg/65eac1714a44f5816cdec891" rel="noopener noreferrer nofollow" target="_blank">Form 2</a>.</p>
