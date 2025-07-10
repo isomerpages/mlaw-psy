@@ -7,8 +7,8 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      subtitle: A panel which psychiatrists must be on before they can give expert
-        opinion evidence on psychiatry in Singapore criminal court proceedings.
+      subtitle: Safeguarding the quality of psychiatric expert opinion evidence in
+        Singapore criminal court proceedings
       background: /images/hero-banner.png
       title: Panel of Psychiatrists
       button: About
