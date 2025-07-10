@@ -11,8 +11,8 @@ sections:
         opinion evidence on psychiatry in Singapore criminal court proceedings.
       background: /images/hero-banner.png
       title: Panel of Psychiatrists
-      button: About Us
-      url: /about-us/
+      button: About
+      url: /about/
   - resources:
       title: Resources
       id: resources
