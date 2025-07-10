@@ -7,3 +7,4 @@ description: ""
 image: ""
 variant: tiptap
 ---
+<p>[To adapt from briefing materials, which will be cleared lines]</p>
