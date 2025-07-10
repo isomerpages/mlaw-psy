@@ -4,12 +4,12 @@ permalink: /about/
 variant: tiptap
 description: ""
 ---
-<p>Psychiatric expert evidence is commonly featured in criminal proceedings,
+<p>Psychiatric expert opinion evidence is commonly featured in criminal proceedings,
 before the Singapore Courts.</p>
 <p></p>
 <p>The Panel of Psychiatrists is established to ensure that psychiatric expert
-evidence before the Singapore Courts in criminal proceedings are objective
-and of a high quality. With effect from [XXXdateXXX], Only psychiatrists
+opinion evidence before the Singapore Courts in criminal proceedings are
+objective and of a high quality. With effect from [XXXdateXXX], Only psychiatrists
 appointed on the Panel can be called to give evidence.</p>
 <p></p>
 <p>Applications for appointment to the Panel are determined by a Selection
