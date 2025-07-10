@@ -7,10 +7,9 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<p>Please complete this form if ...</p>
+<p>Please submit this form if you wish to lodge a complaint against a psychiatrist
+who has been appointed to the Panel of Psychiatrists.</p>
 <p></p>
-<p>Link to Form SG: ...</p>
-<p></p>
-<p>Alternatively, a softcopy of the form is downloadable [here]. Please email
-the completed form to [Secretariat's email].</p>
+<p>Complaints must be accompanied by (1) grounds of complaint, (2) supporting
+facts, and (3) supporting documents, if any.</p>
 <p></p>
