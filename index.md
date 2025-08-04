@@ -7,8 +7,8 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      subtitle: Safeguarding the quality of psychiatric expert opinion evidence in
-        Singapore criminal court proceedings
+      subtitle: Safeguarding the objectivity and quality of psychiatric expert
+        evidence in criminal court proceedings in Singapore
       background: /images/hero-banner.png
       title: Panel of Psychiatrists
       button: About
