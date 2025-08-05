@@ -98,7 +98,7 @@ before 1 January 2026 (TBC).</p>
 </li>
 <li>
 <p>We <strong><u>strongly encourage</u></strong> all interested applicants
-to <strong>submit your application between 1 January 2026 and 31 January 2026 </strong>to
+to <strong>submit your application between 1 January 2026 and 31 January 2026 and no later than 28 February 2026 </strong>to
 facilitate your timely appointment to the Panel.</p>
 <p></p>
 </li>
