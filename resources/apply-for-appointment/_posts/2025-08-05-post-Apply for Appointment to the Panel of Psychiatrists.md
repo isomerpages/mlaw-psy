@@ -53,6 +53,8 @@ or competence as an expert witness.</p>
 </li>
 </ol>
 <h4><strong>(b)&nbsp;&nbsp; How to apply</strong></h4>
+<p><strong><u>Important note to Applicants</u>: Before submitting your application, please ensure that you meet the professional qualifications outlined above. Applications that do not satisfy the criteria will be rejected by the Selection Committee.</strong>
+</p>
 <p>If you are a Singapore-registered psychiatrist or a psychiatry resident
 undergoing training in Singapore, please use Form 1 &lt;to link&gt;.</p>
 <p>If you are a foreign-registered psychiatrist, please use Form 2 &lt;to
