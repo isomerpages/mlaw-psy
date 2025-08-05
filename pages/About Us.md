@@ -11,5 +11,5 @@ expert evidence in criminal proceedings in Singapore.</p>
 give expert evidence on any matter concerning psychiatry in criminal proceedings
 in Singapore.</p>
 <p>Applications for appointment to the Panel are determined by a Selection
-Committee, which comprises of a Supreme Court Judge, a District Judge,
-and a public officer nominated by the Minister for Health.</p>
+Committee, which comprises a Supreme Court Judge, a District Judge, and
+a public officer nominated by the Minister for Health.</p>
