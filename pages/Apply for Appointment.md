@@ -4,7 +4,7 @@ permalink: /how-to-apply/
 variant: tiptap
 description: ""
 ---
-<h4><strong>(a) Who needs to be appointed  </strong></h4>
+<h4><strong>(a) Who needs to be appointed</strong></h4>
 <p>All psychiatrists who intend to provide expert evidence on a matter concerning
 psychiatry in criminal proceedings in Singapore must be appointed to the
 Panel of Psychiatrists (<strong>"Panel"</strong>).</p>
@@ -76,12 +76,12 @@ the Panel may still be admissible in criminal proceedings in any of the
 following scenarios:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Where the expert opinion is adduced in Court between 1 Jan 2026 and 28
-Feb 2026 (TBC)</p>
+<p>Where the expert opinion is adduced in Court between 1 January 2026 and
+28 February 2026 (TBC)</p>
 </li>
 <li>
-<p>Where the psychiatrist has submitted his application between 1 Jan 2026
-and 28 Feb 2026; and</p>
+<p>Where the psychiatrist has submitted his application between 1 January
+2026 and 28 February 2026 (TBC); and</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>The application is pending; or</p>
@@ -94,12 +94,18 @@ the psychiatrist is still within the timelines for filing an appeal.</p>
 </li>
 <li>
 <p>Where the psychiatrist's treatment or assessment of the subject had started
-before 1 Jan 2026.</p>
+before 1 January 2026 (TBC).</p>
 </li>
 </ul>
 </li>
+<li>
+<p>We <strong><u>strongly encourage</u></strong> all interested applicants
+to <strong>submit your application as early as possible </strong>and <strong>between 1 January 2026 and 31 January 2026</strong>.
+Submitting your application early will facilitate timely review and appointment
+to the Panel.</p>
+</li>
 </ul>
-<h4><strong>(d) After your application is processed </strong></h4>
+<h4><strong>(d) After your application is processed</strong></h4>
 <p>You will be notified of the outcome of your application after the Selection
 Committee has considered your application.</p>
 <p>Once your application is approved, you will be appointed to the Panel
