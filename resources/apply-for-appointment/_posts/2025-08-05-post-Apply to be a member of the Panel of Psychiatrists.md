@@ -58,8 +58,9 @@ or competence as an expert witness.</p>
 <p>If you are a Singapore-registered psychiatrist or a psychiatry resident
 undergoing training in Singapore, please use Form 1 &lt;to link&gt;.</p>
 <p>If you are a foreign-registered psychiatrist, please use Form 2 &lt;to
-link&gt;.</p>
-<h4><strong>(c) How to appeal against the Selection Committe's decision </strong></h4>
-<p>&lt;For Sup Ct's update&gt;</p>
+link&gt;.&nbsp;</p>
+<p>If your application was unsuccessful and you would like to file an appeal
+against the Selection Committee’s decision, you may click here for more
+information.</p>
 <h4></h4>
 <p></p>
