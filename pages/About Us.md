@@ -13,3 +13,6 @@ in Singapore.</p>
 <p>Applications for appointment to the Panel are determined by a Selection
 Committee, which comprises a Supreme Court Judge, a District Judge, and
 a public officer nominated by the Minister for Health.</p>
+<p>For more information on the application process and appointment criteria,
+please click <a href="For more information on the application process and appointment criteria, please refer to <link>." rel="noopener nofollow" target="_blank">here</a>.</p>
+<p></p>
