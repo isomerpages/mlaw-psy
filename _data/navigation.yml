@@ -8,8 +8,6 @@ links:
     url: /appointed-psychiatrists/
   - title: Frequently Asked Questions
     url: /faqs
-  - title: Contact Us
-    url: /contact-us/
   - title: Other resources
     url: /permalink
     sublinks:
@@ -21,3 +19,5 @@ links:
         url: /permalink
       - title: File a Complaint
         url: /permalink
+  - title: Contact Us
+    url: /contact-us/
