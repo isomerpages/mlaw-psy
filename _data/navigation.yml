@@ -2,10 +2,10 @@ logo: /images/Psych_Panel_logo.png
 links:
   - title: About Us
     url: /about/
-  - title: Apply for Appointment
-    url: /apply-for-appointment-to-the-panel-of-psychiatrists/
   - title: Appointed psychiatrists
     url: /resources/appointed-psychiatrists/list/
+  - title: How to apply
+    url: /permalink
   - title: Resources
     url: /resources/
   - title: Frequently Asked Questions
