@@ -13,7 +13,4 @@ sections:
       title: Panel of Psychiatrists
       button: About
       url: /about/
-  - resources:
-      title: Resources
-      id: resources
 ---
