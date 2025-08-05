@@ -111,6 +111,6 @@ Committee has considered your application.</p>
 <p>Once your application is approved, you will be appointed to the Panel
 for a period of up to 2 years.</p>
 <p>If your application was unsuccessful and you wish to file an appeal against
-the Selection Committee’s decision, you may click here to for information
-on how to do so.</p>
+the Selection Committee’s decision, you may click here &lt;to insert&gt;to
+for information on how to do so.</p>
 <p></p>
