@@ -98,8 +98,14 @@ before 1 January 2026 (TBC).</p>
 </li>
 <li>
 <p>We <strong><u>strongly encourage</u></strong> all interested applicants
-to <strong>submit your application as early as possible </strong>and <strong>between 1 January 2026 and 31 January 2026</strong>.
-Submitting your application early will help to</p>
+to <strong>submit your application between 1 January 2026 and 31 January 2026 </strong>to
+facilitate your timely appointment to the Panel.</p>
+</li>
+<li>
+<p>In particular, please note that if you file your application late and
+do not fall within any of the three transitional scenarios above, you will
+not be able to provide expert evidence in Court until your application
+is approved.</p>
 </li>
 </ul>
 <h4><strong>(d) After your application is processed</strong></h4>
