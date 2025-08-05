@@ -12,7 +12,8 @@ variant: tiptap
 the following requirements:</p>
 <ol data-tight="true" class="tight">
 <li>
-<p>The applicant must meet <strong>at least one</strong> of the following criteria:</p>
+<p><strong><u>Professional Qualifications</u></strong>: The applicant must
+meet <strong>at least one</strong> of the following criteria:</p>
 <p></p>
 <ul data-tight="true" class="tight">
 <li>
@@ -45,9 +46,10 @@ and authorised to practise as a psychiatrist; and</p>
 </ul>
 </li>
 <li>
-<p>The Selection Committee must be satisfied that there are no reasonable
-grounds to believe that the applicant has displayed, or is likely to display,
-a clear lack of objectivity or competence as an expert witness.</p>
+<p><strong><u>Conduct as an expert witness</u></strong>: The Selection Committee
+must be satisfied that there are no reasonable grounds to believe that
+the applicant has displayed, or is likely to display, a clear lack of objectivity
+or competence as an expert witness.</p>
 </li>
 </ol>
 <h4><strong>(b)&nbsp;&nbsp; How to apply</strong></h4>
