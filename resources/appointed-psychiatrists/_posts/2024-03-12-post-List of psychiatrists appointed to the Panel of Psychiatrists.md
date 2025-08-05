@@ -8,13 +8,17 @@ image: ""
 variant: tiptap
 ---
 <p>Last updated: [date]</p>
-<table style="minWidth: 50px">
+<table style="minWidth: 75px">
 <colgroup>
+<col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
+<th rowspan="1" colspan="1">
+<p>SN</p>
+</th>
 <th rowspan="1" colspan="1">
 <p>Psychiatrist</p>
 </th>
@@ -24,6 +28,9 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>1</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Dr AAAA</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -31,6 +38,9 @@ variant: tiptap
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p>2</p>
+</td>
 <td rowspan="1" colspan="1">
 <p>Dr BBBB</p>
 </td>
@@ -40,6 +50,9 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>3</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Dr CCCC</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -48,6 +61,9 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>4</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Dr DDDD</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -55,6 +71,9 @@ variant: tiptap
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p>5</p>
+</td>
 <td rowspan="1" colspan="1">
 <p>Dr EEEE</p>
 </td>
