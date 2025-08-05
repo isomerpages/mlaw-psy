@@ -39,9 +39,10 @@ of Specialists; or</p>
 other than Singapore at the time of the application; and</p>
 </li>
 <li>
-<p>the Selection Committee has received certificates of good standing from
-the licensing authority of each jurisdiction where the applicant is registered
-and authorised to practise as a psychiatrist; and</p>
+<p>the Selection Committee has received a certificate of good standing (that
+is issued within 3 months before or after the date of the application)
+from the licensing authority of each jurisdiction where the applicant is
+registered and authorised to practise as a psychiatrist; and</p>
 </li>
 </ul>
 <p></p>
