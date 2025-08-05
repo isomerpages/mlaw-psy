@@ -6,13 +6,11 @@ links:
     url: /how-to-apply/
   - title: Appointed psychiatrists
     url: /appointed-psychiatrists/
-  - title: Resources
-    url: /resources/
   - title: Frequently Asked Questions
     url: /faqs
   - title: Contact Us
     url: /contact-us/
-  - title: Resources
+  - title: Other resources
     url: /permalink
     sublinks:
       - title: Duties of a Panel Member
