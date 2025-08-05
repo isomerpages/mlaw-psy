@@ -16,7 +16,7 @@ requirements:</p>
 <ol data-tight="true" class="tight">
 <li>
 <p><strong><u>Professional Qualifications</u></strong>: The applicant must
-meet <strong>at least one</strong> of the following criteria:</p>
+meet <strong>at least one</strong> of the following three criteria:</p>
 <p></p>
 <ul data-tight="true" class="tight">
 <li>
