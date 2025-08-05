@@ -56,6 +56,9 @@ has displayed, or is likely to display, a clear lack of objectivity or
 competence as an expert witness.</p>
 </li>
 </ol>
+<p>Before submitting your application, please ensure that you meet the professional
+qualifications outlined above. Applications that do not satisfy the criteria
+will be rejected.</p>
 <h4><strong>(c)&nbsp;&nbsp; How to apply</strong></h4>
 <p>If you are a Singapore-registered psychiatrist or a psychiatry resident
 undergoing training in Singapore, please use Form 1 &lt;to link&gt; to
@@ -64,11 +67,6 @@ submit your application.</p>
 link&gt; to submit your application.&nbsp;</p>
 <p><strong><u>Important note to applicants</u></strong>:</p>
 <ul data-tight="true" class="tight">
-<li>
-<p>Before submitting your application, please ensure that you meet the professional
-qualifications outlined above. Applications that do not satisfy the criteria
-will be rejected.</p>
-</li>
 <li>
 <p>To assist psychiatrists to transition to the new regime, there will be
 a transitional phase where evidence by psychiatrists who are <u>not</u> on
@@ -101,8 +99,7 @@ before 1 January 2026 (TBC).</p>
 <li>
 <p>We <strong><u>strongly encourage</u></strong> all interested applicants
 to <strong>submit your application as early as possible </strong>and <strong>between 1 January 2026 and 31 January 2026</strong>.
-Submitting your application early will facilitate timely review and appointment
-to the Panel.</p>
+Submitting your application early will help to</p>
 </li>
 </ul>
 <h4><strong>(d) After your application is processed</strong></h4>
