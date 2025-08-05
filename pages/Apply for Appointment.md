@@ -50,9 +50,9 @@ and authorised to practise as a psychiatrist; and</p>
 </li>
 <li>
 <p><strong><u>Conduct as an expert witness</u></strong>: The Selection Committee
-must be satisfied that there are no reasonable grounds to believe that
-the applicant has displayed, or is likely to display, a clear lack of objectivity
-or competence as an expert witness.</p>
+is satisfied that there are no reasonable grounds to believe that the applicant
+has displayed, or is likely to display, a clear lack of objectivity or
+competence as an expert witness.</p>
 </li>
 </ol>
 <h4><strong>(c)&nbsp;&nbsp; How to apply</strong></h4>
