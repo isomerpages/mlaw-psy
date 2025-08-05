@@ -56,7 +56,6 @@ or competence as an expert witness.</p>
 </li>
 </ol>
 <h4><strong>(c)&nbsp;&nbsp; How to apply</strong></h4>
-<p></p>
 <p>If you are a Singapore-registered psychiatrist or a psychiatry resident
 undergoing training in Singapore, please use Form 1 &lt;to link&gt; to
 submit your application.</p>
