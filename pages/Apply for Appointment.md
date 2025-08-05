@@ -113,7 +113,8 @@ is approved.</p>
 <p>You will be notified of the outcome of your application after the Selection
 Committee has considered your application.</p>
 <p>Once your application is approved, you will be appointed to the Panel
-for a period of up to 2 years.</p>
+for a period of up to 2 years. You should familiarise yourself with your
+duties as a member of the Panel &lt;insert link&gt;.</p>
 <p>If your application was unsuccessful and you wish to file an appeal against
 the Selection Committee’s decision, you may click here &lt;to insert&gt;to
 for information on how to do so.</p>
