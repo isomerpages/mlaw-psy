@@ -43,7 +43,6 @@ and authorised to practise as a psychiatrist; and</p>
 </li>
 </ul>
 <p></p>
-<p></p>
 </li>
 </ul>
 </li>
