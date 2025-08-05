@@ -12,3 +12,14 @@ links:
     url: /faqs
   - title: Contact Us
     url: /contact-us/
+  - title: Resources
+    url: /permalink
+    sublinks:
+      - title: Duties of a Panel Member
+        url: /permalink
+      - title: Revocation process
+        url: /permalink
+      - title: File an Appeal
+        url: /permalink
+      - title: New submenu
+        url: /permalink
