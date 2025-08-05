@@ -10,7 +10,6 @@ variant: tiptap
 <p><strong>&nbsp;</strong>
 </p>
 <h4><strong>(a)&nbsp;&nbsp; Criteria for appointment</strong></h4>
-<p>&nbsp;</p>
 <p>To be appointed to the Panel of Psychiatrists, the applicant must satisfy
 the following requirements:</p>
 <ol data-tight="true" class="tight">
