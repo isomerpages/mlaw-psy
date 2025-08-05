@@ -7,9 +7,7 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<p><strong>&nbsp;</strong>
-</p>
-<h4><strong>(a)&nbsp;&nbsp; Criteria for appointment</strong></h4>
+<h4><strong>(a) Criteria for appointment</strong></h4>
 <p>To be appointed to the Panel of Psychiatrists, the applicant must satisfy
 the following requirements:</p>
 <ol data-tight="true" class="tight">
@@ -52,8 +50,6 @@ grounds to believe that the applicant has displayed, or is likely to display,
 a clear lack of objectivity or competence as an expert witness.</p>
 </li>
 </ol>
-<p><strong>&nbsp;</strong>
-</p>
 <h4><strong>(b)&nbsp;&nbsp; How to apply</strong></h4>
 <p>If you are a Singapore-registered psychiatrist or a psychiatry resident
 undergoing training in Singapore, please use Form 1 &lt;to link&gt;.</p>
