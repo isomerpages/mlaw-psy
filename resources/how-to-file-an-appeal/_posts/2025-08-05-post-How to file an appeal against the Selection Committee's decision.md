@@ -15,7 +15,7 @@ variant: tiptap
 was rejected by the Selection Committee</p>
 </li>
 <li>
-<p>Your appointment to the Panel was revoked by the Selection Committee</p>
+<p>Your appointment on the Panel was revoked by the Selection Committee</p>
 </li>
 </ul>
 <h4><strong>(b) What are the timelines to file an appeal?</strong></h4>
