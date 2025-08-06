@@ -8,14 +8,14 @@ image: ""
 variant: tiptap
 ---
 <p><strong>To file a complaint against a psychiatrist who is a member of the </strong>
-<a href="/appointed-psychiatrists/" rel="noopener nofollow" target="_blank">Panel of Psychiatrists</a><strong>: </strong>
+<a href="/appointed-psychiatrists/" rel="noopener nofollow" target="_blank">Panel of Psychiatrists</a><strong>:</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>If you are a Singpass user, please use this form &lt;to link&gt;.</p>
+<p>If you have Singpass, please use this form &lt;to link&gt;.</p>
 </li>
 <li>
-<p>You may use this form &lt;to link&gt; if you do not have Singpass.</p>
+<p>If you do not have Singpass, you may use this form &lt;to link&gt;.</p>
 </li>
 </ul>
 <p>You are strongly encouraged to use the Singpass-enabled form if you are
