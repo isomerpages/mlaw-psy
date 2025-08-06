@@ -45,19 +45,7 @@ before submitting your complaint.</p>
 Committee may (a) start revocation proceedings against the psychiatrist;
 or (b) dismiss the complaint. You will be notified of the Selection Committee’s
 decision.</p>
-<hr>
-<p></p>
-<p></p>
-<p></p>
-<p>&nbsp;<a href="#_msoanchor_1" class="msocomoff" rel="noopener noreferrer nofollow" target="_blank">[JL(1]</a><strong>To MOH/Judiciary:</strong> We have
-included these instructions and an explanation on what the Panel is established
-for, to deter irrelevant complaints.</p>
-<p></p>
-<p></p>
 <p></p>
 </li>
 </ul>
-<p></p>
-<p>Complaints must be accompanied by (1) grounds of complaint, (2) supporting
-facts, and (3) supporting documents, if any.</p>
 <p></p>
