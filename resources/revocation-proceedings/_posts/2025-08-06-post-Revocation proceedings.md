@@ -7,13 +7,13 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<h4><strong>Commencement of revocation proceedings</strong></h4>
+<h4><strong>(a) Commencement of revocation proceedings</strong></h4>
 <p>The Selection Committee may commence proceedings to revoke the appointment
 of a psychiatrist on the Panel on its own motion or based on a complaint.</p>
 <p>The psychiatrist will be notified by the Selection Committee if revocation
 proceedings are commenced. The notification will include the potential
 grounds for the revocation.</p>
-<h4><strong>Duty to inform subjects of revocation proceedings</strong></h4>
+<h4><strong>(b) Duty to inform subjects of revocation proceedings</strong></h4>
 <p>Once the psychiatrist is notified, the psychiatrist <strong>must</strong> inform
 each of his or her subjects (i.e. a person whom the psychiatrist has been
 or is sought to be engaged to provide an opinion on any matter concerning
@@ -40,13 +40,13 @@ her Expert Opinion, the Court may determine the weight to be given to the
 evidence, after considering all the circumstances of the case.</p>
 </li>
 </ul>
-<h4><strong>Submission of written representations</strong></h4>
+<h4><strong>(c) Submission of written representations</strong></h4>
 <p>The psychiatrist will be able to submit written representations to the
 Selection Committee to explain why his or her appointment should not be
 revoked;</p>
 <p>The Selection Committee may also require the psychiatrist, the complainant
 or any other person to appear before the Selection Committee.</p>
-<h4><strong>Grounds for revocation of appointment</strong></h4>
+<h4><strong>(d) Grounds for revocation of appointment</strong></h4>
 <p>The Selection Committee may revoke the psychiatrist’s appointment if the
 Selection Committee is satisfied that any of the following circumstances
 apply: &nbsp;</p>
@@ -76,12 +76,12 @@ Selection Committee of the outcome of an application to be:</p>
 the psychiatrist’s application for appointment.</p>
 </li>
 </ul>
-<h4><strong>Notification of revocation</strong></h4>
+<h4><strong>(e) Conclusion of revocation proceedings </strong></h4>
 <p>If the Selection Committee decides to revoke the appointment of a psychiatrist,
 the psychiatrist will be notified of the decision and the reasons for the
 decision.</p>
-<p>After being notified of the Selection Committee’s decision, the psychiatrist
-must inform each of his or her subject of the revocation.</p>
+<p><strong>After being notified of the Selection Committee’s decision, the psychiatrist must inform each of his or her subject of the revocation.</strong>
+</p>
 <p>The psychiatrist may file an appeal to the Chief Justice within 28 days
 after the date of the Selection Committee’s decision. For information on
 how to file an appeal or how to seek an extension of time to file an appeal,
