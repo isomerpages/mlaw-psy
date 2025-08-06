@@ -6,8 +6,6 @@ links:
     url: /how-to-apply/
   - title: List of Appointed Members
     url: /appointed-psychiatrists/
-  - title: Frequently Asked Questions
-    url: /faqs
   - title: Other resources
     url: /permalink
     sublinks:
@@ -19,5 +17,7 @@ links:
         url: /how-to-file-an-appeal-against-the-selection-committee-s-decision/
       - title: File a Complaint
         url: /permalink
+  - title: Frequently Asked Questions
+    url: /faqs
   - title: Contact Us
     url: /contact-us/
