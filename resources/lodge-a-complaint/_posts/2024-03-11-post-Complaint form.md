@@ -7,7 +7,8 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<p><strong>To file a complaint against a psychiatrist who is a member of the Panel of Psychiatrists &lt;embed link to Register&gt;:</strong>
+<p><strong>To file a complaint against a psychiatrist who is a member of the </strong>
+<a href="/appointed-psychiatrists/" rel="noopener nofollow" target="_blank">Panel of Psychiatrists</a><strong>: </strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
