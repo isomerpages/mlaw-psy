@@ -52,8 +52,7 @@ Selection Committee is satisfied that any of the following circumstances
 apply: &nbsp;</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>The psychiatrist no longer meets the requirements for appointment &lt;to
-link to “Apply for Appointment” page&gt;;</p>
+<p>The psychiatrist no longer meets the <a href="/how-to-apply/" rel="noopener nofollow" target="_blank">requirements for appointment</a>;</p>
 </li>
 <li>
 <p>The psychiatrist has displayed, or is likely to display, a clear lack
