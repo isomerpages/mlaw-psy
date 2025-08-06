@@ -113,11 +113,32 @@ application is approved.</p>
 <h4><strong>(d) After your application is processed</strong></h4>
 <p>You will be notified of the outcome of your application after the Selection
 Committee has considered your application.</p>
-<p>Once your application is approved, you will be appointed to the Panel
-for a period of up to 2 years. You should also familiarise yourself with
-the things that you should note a member of the Panel &lt;insert link to
-"Other resources --&gt; Things to note as a Member"&gt;.</p>
 <p>If your application was unsuccessful and you wish to file an appeal against
 the Selection Committee’s decision, you may click here &lt;to insert&gt;to
 for information on how to do so.</p>
+<p>If your application is approved by the Selection Committee, you will be
+appointed to the Panel for a period of up to 2 years.</p>
+<p>Please take note of the following:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>If you are a psychiatry resident, you must, within 14 days after being
+notified of the outcome of an application:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>To be accredited as a psychiatrist by the Specialist Accreditation Board;
+and</p>
+</li>
+<li>
+<p>To be registered as a psychiatrist in the Register of Specialists.</p>
+</li>
+</ul>
+</li>
+</ul>
+<p>inform the Selection Committee of the outcome via this &lt;link&gt;.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>You are also advised to familiarise yourself with the grounds for revocation
+and the revocation process &lt;insert link&gt;.</p>
+</li>
+</ul>
 <p></p>
