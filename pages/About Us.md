@@ -14,5 +14,5 @@ in Singapore.</p>
 Committee, which comprises a Supreme Court Judge, a District Judge, and
 a public officer nominated by the Minister for Health.</p>
 <p>For more information on the application process and appointment criteria,
-please click <a href="For more information on the application process and appointment criteria, please refer to <link>." rel="noopener nofollow" target="_blank">here</a>.</p>
+please click <a href="/how-to-apply/" rel="noopener nofollow" target="_blank">here</a>.</p>
 <p></p>
