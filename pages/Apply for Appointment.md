@@ -114,7 +114,7 @@ on a matter concerning psychiatry until your application is approved.</p>
 <p>You will be notified of the outcome of your application after the Selection
 Committee has considered your application.</p>
 <p>If your application was unsuccessful and you wish to file an appeal against
-the Selection Committee’s decision, you may click here &lt;to insert&gt;to
+the Selection Committee’s decision, you may click <a href="/how-to-file-an-appeal-against-the-selection-committee-s-decision/" rel="noopener nofollow" target="_blank">here</a> to
 for information on how to do so.</p>
 <p>If your application is approved by the Selection Committee, you will be
 appointed to the Panel for a period of up to 2 years.</p>
