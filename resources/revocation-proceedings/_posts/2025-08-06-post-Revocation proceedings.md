@@ -43,7 +43,7 @@ evidence, after considering all the circumstances of the case.</p>
 <h4><strong>(c) Submission of written representations</strong></h4>
 <p>The psychiatrist will be able to submit written representations to the
 Selection Committee to explain why his or her appointment should not be
-revoked;</p>
+revoked.</p>
 <p>The Selection Committee may also require the psychiatrist, the complainant
 or any other person to appear before the Selection Committee.</p>
 <h4><strong>(d) Grounds for revocation of appointment</strong></h4>
@@ -76,7 +76,7 @@ Selection Committee of the outcome of an application to be:</p>
 the psychiatrist’s application for appointment.</p>
 </li>
 </ul>
-<h4><strong>(e) Conclusion of revocation proceedings </strong></h4>
+<h4><strong>(e) Conclusion of revocation proceedings</strong></h4>
 <p>If the Selection Committee decides to revoke the appointment of a psychiatrist,
 the psychiatrist will be notified of the decision and the reasons for the
 decision.</p>
