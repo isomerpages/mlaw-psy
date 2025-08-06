@@ -105,7 +105,7 @@ to your court cases.</p>
 </li>
 <li>
 <p>In particular, please note that if you file your application after 28
-February 2026 and do not fall within any of the three transitional scenarios
+February 2026 and do not fall within any of the transitional scenarios
 above, you will not be able to provide expert evidence in Court until your
 application is approved.</p>
 </li>
