@@ -15,8 +15,8 @@ be:</p>
 <p>accredited as a psychiatrist by the Specialist Accreditation Board; and</p>
 </li>
 <li>
-<p>registered as a psychiatrist in the Register of Specialist</p>
+<p>registered as a psychiatrist in the Register of Specialists</p>
 </li>
 </ul>
-<p>inform the Selection Committee of the outcome. Please click here to submit
-your notification.</p>
+<p>inform the Selection Committee of the outcome.</p>
+<p>Please click here to submit your notification.</p>
