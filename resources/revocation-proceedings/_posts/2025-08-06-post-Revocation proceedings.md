@@ -84,6 +84,6 @@ decision.</p>
 <p>The psychiatrist may file an appeal to the Chief Justice within 28 days
 after the date of the Selection Committee’s decision. For information on
 how to file an appeal or how to seek an extension of time to file an appeal,
-please refer to &lt;link&gt;.</p>
+please click here.</p>
 <p>If no appeal is filed, the revocation takes effect 28 days after the date
 of the Selection Committee’s decision.</p>
