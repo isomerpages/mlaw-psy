@@ -125,11 +125,11 @@ appointed to the Panel for a period of up to 2 years.</p>
 notified of the outcome of an application to be (a) accredited as a psychiatrist
 by the Specialist Accreditation Board; and (b) registered as a psychiatrist
 in the Register of Specialists, inform the Selection Committee of the outcome.
-Please click here to submit your notification.</p>
+Please click <a href="/psychiatry-residents/" rel="noopener nofollow" target="_blank">here</a>to
+submit your notification.</p>
 </li>
 <li>
-<p>You are also advised to familiarise yourself with the grounds for revocation
-and the revocation process &lt;insert link&gt;.</p>
+<p>You are also advised to familiarise yourself with the <a href="/revocation-proceedings/" rel="noopener nofollow" target="_blank">grounds for revocation and the revocation process</a>.</p>
 </li>
 </ul>
 <p></p>
