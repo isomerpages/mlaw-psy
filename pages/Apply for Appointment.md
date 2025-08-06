@@ -122,20 +122,11 @@ appointed to the Panel for a period of up to 2 years.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>If you are a psychiatry resident, you must, within 14 days after being
-notified of the outcome of an application:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>To be accredited as a psychiatrist by the Specialist Accreditation Board;
-and</p>
+notified of the outcome of an application to be (a) accredited as a psychiatrist
+by the Specialist Accreditation Board; and (b) registered as a psychiatrist
+in the Register of Specialists, inform the Selection Committee of the outcome.
+Please click here to submit your notification.</p>
 </li>
-<li>
-<p>To be registered as a psychiatrist in the Register of Specialists.</p>
-</li>
-</ul>
-</li>
-</ul>
-<p>inform the Selection Committee of the outcome via this &lt;link&gt;.</p>
-<ul data-tight="true" class="tight">
 <li>
 <p>You are also advised to familiarise yourself with the grounds for revocation
 and the revocation process &lt;insert link&gt;.</p>
