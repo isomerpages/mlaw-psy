@@ -40,15 +40,13 @@ her Expert Opinion, the Court may determine the weight to be given to the
 evidence, after considering all the circumstances of the case.</p>
 </li>
 </ul>
-<p><strong>Submission of written representations</strong>
-</p>
+<h4><strong>Submission of written representations</strong></h4>
 <p>The psychiatrist will be able to submit written representations to the
 Selection Committee to explain why his or her appointment should not be
 revoked;</p>
 <p>The Selection Committee may also require the psychiatrist, the complainant
 or any other person to appear before the Selection Committee.</p>
-<p><strong>Grounds for revocation of appointment</strong>
-</p>
+<h4><strong>Grounds for revocation of appointment</strong></h4>
 <p>The Selection Committee may revoke the psychiatrist’s appointment if the
 Selection Committee is satisfied that any of the following circumstances
 apply: &nbsp;</p>
@@ -78,8 +76,7 @@ Selection Committee of the outcome of an application to be:</p>
 the psychiatrist’s application for appointment.</p>
 </li>
 </ul>
-<p><strong>Notification of revocation</strong>
-</p>
+<h4><strong>Notification of revocation</strong></h4>
 <p>If the Selection Committee decides to revoke the appointment of a psychiatrist,
 the psychiatrist will be notified of the decision and the reasons for the
 decision.</p>
