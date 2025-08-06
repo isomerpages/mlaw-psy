@@ -14,11 +14,10 @@ of a psychiatrist on the Panel on its own motion or based on a complaint.</p>
 proceedings are commenced. The notification will include the potential
 grounds for the revocation.</p>
 <h4><strong>(b) Duty to inform subjects of revocation proceedings</strong></h4>
-<p>Once the psychiatrist is notified, the psychiatrist <strong>must</strong> inform
-each of his or her subjects (i.e. a person whom the psychiatrist has been
-or is sought to be engaged to provide an opinion on any matter concerning
-psychiatry for the purpose of adducing evidence in any criminal proceedings
-in Singapore) that:<strong> &nbsp;</strong>
+<p>Once the psychiatrist is notified, the psychiatrist <strong>must inform each of his or her subjects</strong> (i.e.
+a person whom the psychiatrist has been or is sought to be engaged to provide
+an opinion on any matter concerning psychiatry for the purpose of adducing
+evidence in any criminal proceedings in Singapore) that:<strong> &nbsp;</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
