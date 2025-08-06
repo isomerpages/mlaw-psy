@@ -31,8 +31,7 @@ in Singapore.</p>
 </li>
 <li>
 <p>Your complaint should be limited to complaints about a <a href="/how-to-apply/" rel="noopener nofollow" target="_blank">psychiatrist's eligibility to remain on the Panel </a>and
-to give expert evidence in criminal proceedings in Singapore. The eligibility
-requirements are set out at &lt;insert&gt;.</p>
+to give expert evidence in criminal proceedings in Singapore.</p>
 </li>
 <li>
 <p>You will be required to upload a statutory declaration that is made in
