@@ -64,7 +64,7 @@ of objectivity or competence as an expert witness;</p>
 Selection Committee of the outcome of an application to be:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Accredited as a psychiatrist by the Specialists Accreditation Board; o</p>
+<p>Accredited as a psychiatrist by the Specialists Accreditation Board; and</p>
 </li>
 <li>
 <p>Registered as a psychiatrist in the Register of Specialists</p>
