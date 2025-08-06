@@ -59,8 +59,8 @@ apply: &nbsp;</p>
 of objectivity or competence as an expert witness;</p>
 </li>
 <li>
-<p>The psychiatry resident had failed to notify the Selection Committee of
-the outcome of an application to be:</p>
+<p>The psychiatry resident had <a href="/psychiatry-residents/" rel="noopener nofollow" target="_blank">failed to notify</a> the Selection Committee
+of the outcome of an application to be:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Accredited as a psychiatrist by the Specialists Accreditation Board; and</p>
