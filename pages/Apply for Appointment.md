@@ -70,7 +70,7 @@ link&gt; to submit your application.&nbsp;</p>
 <li>
 <p>To assist psychiatrists to transition to the new regime, there will be
 a transitional phase where evidence by psychiatrists who are <u>not</u> on
-the Panel may still be admissible in criminal proceedings in any of the
+the Panel will remain admissible in criminal proceedings in any of the
 following scenarios:</p>
 <ul data-tight="true" class="tight">
 <li>
