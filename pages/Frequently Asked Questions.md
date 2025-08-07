@@ -4,7 +4,11 @@ permalink: /faqs/
 variant: tiptap
 description: ""
 ---
-<h3><strong>(a)&nbsp;&nbsp; Application process</strong></h3>
+<h3><strong>(a)&nbsp;General</strong></h3>
+<h4><strong>How many psychiatrists are expected to be appointed to the Panel?</strong></h4>
+<p>There is no quota to the Panel. We welcome all psychiatrists who wish
+to give expert evidence in criminal proceedings to apply.</p>
+<h3><strong>(b) Application process</strong></h3>
 <h4><strong>Will there be a transitional phase where a psychiatrist’s expert evidence is still admissible even though he or she is not a member of the Panel?</strong></h4>
 <p>Yes. To assist psychiatrists to transition to the new regime, there will
 be a transitional phase where expert evidence by psychiatrists who are
