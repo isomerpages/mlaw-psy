@@ -144,7 +144,7 @@ authority for the issuance of the COGS.</p>
 </p>
 <p>The Selection Committee will not be able to appoint the psychiatrist until
 it receives the COGS.</p>
-<p>If the COGS is received after 3 months from the date of the application,
+<p>If the COGS is received more than 3 months after the date of the application,
 the psychiatrist will have to resubmit an application to the Selection
 Committee.</p>
 </li>
