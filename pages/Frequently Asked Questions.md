@@ -51,10 +51,10 @@ we aim to appoint successful applicants on 1 March 2026. &nbsp;</p>
 we aim to appoint successful applicants on 1 April 2026.</p>
 </li>
 </ul>
-<p>Applicants in either of the above categories may continue to provide psychiatric
-evidence in criminal proceedings even if their application is still being
-processed by the target date, as they fall within Transitional Scenario
-2.</p>
+<p>Applicants in either of the two categories above may continue to provide
+psychiatric evidence in criminal proceedings even if their application
+is still being processed by the target date, as they fall within Transitional
+Scenario 2.</p>
 <p><strong>For applications received after 28 February 2026</strong>, appointments
 will be made on a monthly basis, at the start of each month.</p>
 <h4><strong>What can a psychiatrist do if he is not a member of the Panel but has an upcoming court matter where he is scheduled to testify as an expert witness on a matter concerning psychiatry?</strong></h4>
