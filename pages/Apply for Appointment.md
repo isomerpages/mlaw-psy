@@ -10,7 +10,7 @@ psychiatry in criminal proceedings in Singapore must be appointed to the
 Panel of Psychiatrists (<strong>"Panel"</strong>).</p>
 <p>Expert opinion provided by a psychiatrist who is not a member of the Panel
 will not be admissible as evidence, unless the transitional circumstances
-apply.</p>
+apply (see section C below).</p>
 <h4><strong>(b) Criteria for appointment</strong></h4>
 <p>To be appointed to the Panel, the applicant must satisfy the following
 requirements:</p>
