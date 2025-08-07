@@ -7,13 +7,15 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<h4><strong>(a) Commencement of revocation proceedings</strong></h4>
+<hr>
+<h3><strong>(a) Commencement of revocation proceedings</strong></h3>
 <p>The Selection Committee may commence proceedings to revoke the appointment
 of a psychiatrist on the Panel on its own motion or based on a complaint.</p>
 <p>The psychiatrist will be notified by the Selection Committee if revocation
 proceedings are commenced. The notification will include the potential
 grounds for the revocation.</p>
-<h4><strong>(b) Duty to inform subjects of revocation proceedings</strong></h4>
+<hr>
+<h3><strong>(b) Duty to inform subjects of revocation proceedings</strong></h3>
 <p>Once the psychiatrist is notified, the psychiatrist <strong>must inform each of his or her subjects</strong> (i.e.
 a person whom the psychiatrist has been or is sought to be engaged to provide
 an opinion on any matter concerning psychiatry for the purpose of adducing
@@ -37,15 +39,17 @@ proceedings in Singapore until the revocation takes effect; and</p>
 <p>if the revocation takes effect after the psychiatrist has given his or
 her Expert Opinion, the Court may determine the weight to be given to the
 evidence, after considering all the circumstances of the case.</p>
+<hr>
 </li>
 </ul>
-<h4><strong>(c) Submission of written representations</strong></h4>
+<h3><strong>(c) Submission of written representations</strong></h3>
 <p>The psychiatrist will be able to submit written representations to the
 Selection Committee to explain why his or her appointment should not be
 revoked.</p>
 <p>The Selection Committee may also require the psychiatrist, the complainant
 or any other person to appear before the Selection Committee.</p>
-<h4><strong>(d) Grounds for revocation of appointment</strong></h4>
+<hr>
+<h3><strong>(d) Grounds for revocation of appointment</strong></h3>
 <p>The Selection Committee may revoke the psychiatrist’s appointment if the
 Selection Committee is satisfied that any of the following circumstances
 apply: &nbsp;</p>
@@ -72,9 +76,10 @@ of the outcome of an application to be:</p>
 <li>
 <p>There was false or misleading information in a material particular in
 the psychiatrist’s application for appointment.</p>
+<hr>
 </li>
 </ul>
-<h4><strong>(e) Conclusion of revocation proceedings</strong></h4>
+<h3><strong>(e) Conclusion of revocation proceedings</strong></h3>
 <p>If the Selection Committee decides to revoke the appointment of a psychiatrist,
 the psychiatrist will be notified of the decision and the reasons for the
 decision.</p>
@@ -86,3 +91,5 @@ how to file an appeal or how to seek an extension of time to file an appeal,
 please click <a href="/how-to-file-an-appeal-against-the-selection-committee-s-decision/" rel="noopener nofollow" target="_blank">here</a>.</p>
 <p>If no appeal is filed, the revocation takes effect 28 days after the date
 of the Selection Committee’s decision.</p>
+<hr>
+<p></p>
