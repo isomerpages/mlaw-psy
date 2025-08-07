@@ -65,10 +65,10 @@ on case-by-case basis, it may not be feasible to accommodate every request,
 particularly if a high volume of applications is being processed at the
 same time.</p>
 <h3><strong>(b)&nbsp;&nbsp; Foreign-registered Psychiatrists</strong></h3>
-<h4><strong>To be appointed to the Panel, a foreign-registered psychiatrist must have a Certificate of Good Standing (“COGS”) that is to be issued by the foreign licensing authority or medical council within 3 months before or after the date of the application. </strong></h4>
+<h4><strong>To be appointed to the Panel, a foreign-registered psychiatrist must have a Certificate of Good Standing (“COGS”) that is to be issued by the foreign licensing authority or medical council within 3 months before or after the date of the application.</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>What is the reason for this timeframe? </strong>
+<p><strong>What is the reason for this timeframe?</strong>
 </p>
 <p>This ensures that the COGS is current and submitted close in time to the
 application for appointment.</p>
@@ -100,7 +100,7 @@ via &lt;insert email&gt;.</p>
 payments incurred by the applicant arising from requests for the COGS.</p>
 </li>
 <li>
-<p><strong>What should the COGS contain? </strong>
+<p><strong>What should the COGS contain?</strong>
 </p>
 <p>The COGS should contain the following information:</p>
 <ul data-tight="true" class="tight">
@@ -143,4 +143,28 @@ the psychiatrist will have to resubmit an application to the Selection
 Committee.</p>
 </li>
 </ul>
+<h4><strong>(c) Renewal process</strong></h4>
+<h4><strong>Where can a person obtain information on which psychiatrists are members of the panel?</strong></h4>
+<p>The list of appointed psychiatrists can be found here &lt;to link&gt;.</p>
+<p>Please also note that appointed psychiatrists are required to inform their
+subjects in the following circumstances:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>If revocation proceedings are commenced against them by the Selection
+Committee; and</p>
+</li>
+<li>
+<p>their appointment is revoked by the Selection Committee. &nbsp;</p>
+</li>
+</ul>
+<h4><strong>What happens if a person engages a psychiatrist who is not or ceases to be a member of the Panel?</strong></h4>
+<p>If the psychiatrist was <strong>not</strong> a member of the Panel at the
+time his expert evidence was adduced (e.g. if his expert report was tendered
+in Court or he had given oral testimony as an expert witness in the proceedings)
+in the criminal proceedings, his expert evidence would be <u>not</u> be admissible.</p>
+<p>If the psychiatrist was a member of the Panel at the time his expert evidence
+was adduced in the criminal proceedings, his expert evidence would be admissible,
+even if he ceases to be a member of the Panel thereafter. However, the
+Court may determine the weight that should be given to the psychiatrist’s
+evidence, after considering all the circumstances of the case.</p>
 <p></p>
