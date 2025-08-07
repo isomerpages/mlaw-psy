@@ -115,7 +115,7 @@ until your application is approved.</p>
 <hr>
 </li>
 </ul>
-<h3><strong>(d) After your application is processed</strong></h3>
+<h3><strong>(d) After the application is processed</strong></h3>
 <p>The applicant will be notified of the outcome of his or her application
 after the Selection Committee has considered the application.</p>
 <p>If the application was unsuccessful and applicant wishes to file an appeal
