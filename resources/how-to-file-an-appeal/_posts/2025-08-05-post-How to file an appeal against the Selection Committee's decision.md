@@ -7,22 +7,23 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<h4><strong>(a) When can I file an appeal?</strong></h4>
-<p>You may file an appeal to the Chief Justice if:</p>
+<h4><strong>(a) When can an applicant or member of the Panel file an appeal?</strong></h4>
+<p>An appeal may be made to the Chief Justice if:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Your application for appointment to the Panel of Psychiatrists (<strong>"Panel"</strong>)
-was rejected by the Selection Committee</p>
+<p>The applicant’s application for appointment to the Panel of Psychiatrists
+(<strong>"Panel"</strong>) was rejected by the Selection Committee</p>
 </li>
 <li>
-<p>Your appointment on the Panel was revoked by the Selection Committee</p>
+<p>The psychiatrist’s appointment on the Panel was revoked by the Selection
+Committee</p>
 </li>
 </ul>
 <h4><strong>(b) What are the timelines to file an appeal?</strong></h4>
-<p>You must file an appeal <strong>within 28 days</strong> after the date of
-the Selection Committee's decision.</p>
-<p>If you need more time to file an appeal, you may apply to the Chief Justice
-for an extension of time by &lt;For Sup Ct's inputs on how an extension
-of time may be sought&gt;.</p>
-<h4><strong>(c) How can I file an appeal?</strong></h4>
+<p>An appeal <strong>within 28 days</strong> after the date of the Selection
+Committee's decision.</p>
+<p>If more time is required to file an appeal, an application may be made
+to the Chief Justice for an extension of time by &lt;For Sup Ct's inputs
+on how an extension of time may be sought&gt;.</p>
+<h4><strong>(c) How can an appeal be filed? </strong></h4>
 <p>&lt;For Sup Ct's inputs&gt;</p>
