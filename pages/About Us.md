@@ -10,11 +10,11 @@ expert evidence in criminal proceedings in Singapore.</p>
 <p>Under this regime, only psychiatrists who are members of the Panel may
 give expert evidence on any matter concerning psychiatry in criminal proceedings
 in Singapore<sup>[1]</sup>.</p>
-<p><sup><sub>[1]</sub></sup><sub> There is a transitional phase after &lt;date&gt; where psychiatrists may still give expert evidence in criminal proceedings if certain circumstances apply. Please refer to the frequently-asked-questions.</sub>
-</p>
 <p>Applications for appointment to the Panel are determined by a Selection
 Committee, which comprises a Supreme Court Judge, a District Judge, and
 a public officer nominated by the Minister for Health.</p>
 <p>For more information on the application process and appointment criteria,
 please click <a href="/how-to-apply/" rel="noopener nofollow" target="_blank">here</a>.</p>
+<p><sup><sub>[1]</sub></sup><sub> There is a transitional phase after &lt;date&gt; where psychiatrists may still give expert evidence in criminal proceedings if certain circumstances apply. Please refer to the frequently-asked-questions.</sub>
+</p>
 <p></p>
