@@ -7,7 +7,7 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<h4><strong>(a) When can an applicant or member of the Panel file an appeal?</strong></h4>
+<h3><strong>(a) When can an applicant or member of the Panel file an appeal?</strong></h3>
 <p>An appeal may be made to the Chief Justice if:</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -19,11 +19,11 @@ variant: tiptap
 Committee</p>
 </li>
 </ul>
-<h4><strong>(b) What are the timelines to file an appeal?</strong></h4>
+<h3><strong>(b) What are the timelines to file an appeal?</strong></h3>
 <p>An appeal <strong>within 28 days</strong> after the date of the Selection
 Committee's decision.</p>
 <p>If more time is required to file an appeal, an application may be made
 to the Chief Justice for an extension of time by &lt;For Sup Ct's inputs
 on how an extension of time may be sought&gt;.</p>
-<h4><strong>(c) How can an appeal be filed? </strong></h4>
+<h3><strong>(c) How can an appeal be filed?</strong></h3>
 <p>&lt;For Sup Ct's inputs&gt;</p>
