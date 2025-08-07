@@ -9,7 +9,8 @@ description: ""
 psychiatry in criminal proceedings in Singapore must be appointed to the
 Panel of Psychiatrists (<strong>"Panel"</strong>).</p>
 <p>Expert opinion provided by a psychiatrist who is not a member of the Panel
-will not be admissible as evidence.</p>
+will not be admissible as evidence, unless the transitional circumstances
+apply.</p>
 <h4><strong>(b) Criteria for appointment</strong></h4>
 <p>To be appointed to the Panel, the applicant must satisfy the following
 requirements:</p>
@@ -74,12 +75,12 @@ the Panel will remain admissible in criminal proceedings in any of the
 following scenarios:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Where the expert opinion is adduced in Court between 1 January 2026 and
-28 February 2026 (TBC)</p>
+<p><strong>Transitional scenario 1: </strong>Where the expert opinion is
+adduced in Court between 1 January 2026 and 28 February 2026 (TBC)</p>
 </li>
 <li>
-<p>Where the psychiatrist has submitted his application between 1 January
-2026 and 28 February 2026 (TBC); and</p>
+<p><strong>Transitional scenario 2:</strong>Where the psychiatrist has submitted
+his application between 1 January 2026 and 28 February 2026 (TBC); and</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>The application is pending; or</p>
@@ -91,8 +92,8 @@ the psychiatrist is still within the timelines for filing an appeal.</p>
 </ul>
 </li>
 <li>
-<p>Where the psychiatrist's treatment or assessment of the subject had started
-before 1 January 2026 (TBC).</p>
+<p><strong>Transitional scenario 3:</strong>Where the psychiatrist's treatment
+or assessment of the subject had started before 1 January 2026 (TBC).</p>
 </li>
 </ul>
 </li>
