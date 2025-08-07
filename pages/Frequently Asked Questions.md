@@ -156,8 +156,8 @@ Committee.</p>
 subjects in the following circumstances:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>If revocation proceedings are commenced against them by the Selection
-Committee; and</p>
+<p>If <a href="/revocation-proceedings/" rel="noopener nofollow" target="_blank">revocation proceedings</a> are
+commenced against them by the Selection Committee; and</p>
 </li>
 <li>
 <p>their appointment is revoked by the Selection Committee. &nbsp;</p>
