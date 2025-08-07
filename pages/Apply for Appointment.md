@@ -107,10 +107,11 @@ your court cases.</p>
 <p></p>
 </li>
 <li>
-<p>In particular, please note that if you submit your application after 28
-February 2026 and do not fall within any of the transitional scenarios
-above, you will not be able to provide expert evidence in criminal proceedings
-on a matter concerning psychiatry until your application is approved.</p>
+<p>In particular, <strong><u>please note</u></strong> that if you submit your
+application <strong>after 28 February 2026</strong> and do not fall within
+any of the transitional scenarios above, you will not be able to provide
+expert evidence in criminal proceedings on a matter concerning psychiatry
+until your application is approved.</p>
 <hr>
 </li>
 </ul>
