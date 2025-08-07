@@ -64,11 +64,10 @@ qualifications outlined above. Applications that do not satisfy the criteria
 will be rejected.</p>
 <hr>
 <h3><strong>(c)&nbsp;&nbsp; How to apply</strong></h3>
-<p>If you are a Singapore-registered psychiatrist or a psychiatry resident
-undergoing training in Singapore, please use Form 1 &lt;to link&gt; to
-submit your application.</p>
-<p>If you are a foreign-registered psychiatrist, please use Form 2 &lt;to
-link&gt; to submit your application.&nbsp;</p>
+<p>If you are a <strong>Singapore-registered psychiatrist</strong> or a <strong>psychiatry resident undergoing training in Singapore</strong>,
+please use Form 1 &lt;to link&gt; to submit your application.</p>
+<p>If you are a <strong>foreign-registered psychiatrist</strong>, please use
+Form 2 &lt;to link&gt; to submit your application.&nbsp;</p>
 <p><strong><u>Important note to applicants</u></strong>:</p>
 <ul data-tight="true" class="tight">
 <li>
