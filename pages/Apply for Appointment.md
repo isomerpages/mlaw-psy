@@ -103,8 +103,8 @@ or assessment of the subject had started before 1 January 2026 (TBC).</p>
 <li>
 <p>We <strong><u>strongly encourage</u></strong> all interested applicants
 to <strong>submit your application between 1 January 2026 and 31 January 2026 and no later than 28 February 2026 </strong>to
-facilitate your timely appointment to the Panel and avoid any disruption
-to your court cases.</p>
+facilitate your timely appointment to the Panel and avoid disruption to
+your court cases.</p>
 <p></p>
 </li>
 <li>
