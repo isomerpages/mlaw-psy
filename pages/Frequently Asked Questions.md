@@ -170,6 +170,7 @@ Committee.</p>
 <p>Renewal applications may be submitted no earlier than 3 months prior to
 the expiry of the psychiatrist’s current appointment. More details on the
 renewal process will be shared in due course.</p>
+<hr>
 <h3><strong>(d) Engaging an appointed psychiatrist</strong></h3>
 <h4><strong>Where can a person obtain information on which psychiatrists are members of the panel?</strong></h4>
 <p>The list of appointed psychiatrists can be found <a href="/appointed-psychiatrists/" rel="noopener nofollow" target="_blank">here</a>.</p>
@@ -194,6 +195,7 @@ was adduced in the criminal proceedings, his expert evidence would be admissible
 even if he ceases to be a member of the Panel thereafter. However, the
 Court may determine the weight that should be given to the psychiatrist’s
 evidence, after considering all the circumstances of the case.</p>
+<hr>
 <h3><strong>(e)&nbsp;Others</strong></h3>
 <h4><strong>How many psychiatrists are expected to be appointed to the Panel?</strong></h4>
 <p>There is no quota to the Panel. We welcome all psychiatrists who wish
