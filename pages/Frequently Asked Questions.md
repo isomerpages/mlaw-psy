@@ -4,7 +4,6 @@ permalink: /faqs/
 variant: tiptap
 description: ""
 ---
-<h3><strong>For Psychiatrists</strong></h3>
 <h3><strong>(a)&nbsp;&nbsp; Application process</strong></h3>
 <h4><strong>Will there be a transitional phase where a psychiatrist’s expert evidence is still admissible even though he or she is not a member of the Panel?</strong></h4>
 <p>Yes. To assist psychiatrists to transition to the new regime, there will
@@ -64,6 +63,7 @@ why the application was not submitted earlier.</p>
 on case-by-case basis, it may not be feasible to accommodate every request,
 particularly if a high volume of applications is being processed at the
 same time.</p>
+<hr>
 <h3><strong>(b)&nbsp;&nbsp; Foreign-registered Psychiatrists</strong></h3>
 <h4><strong>To be appointed to the Panel, a foreign-registered psychiatrist must have a Certificate of Good Standing (“COGS”) that is to be issued by the foreign licensing authority or medical council within 3 months before or after the date of the application.</strong></h4>
 <p></p>
@@ -147,9 +147,10 @@ it receives the COGS.</p>
 <p>If the COGS is received more than 3 months after the date of the application,
 the psychiatrist will have to resubmit an application to the Selection
 Committee.</p>
+<hr>
 </li>
 </ul>
-<h4><strong>(c) Renewal process</strong></h4>
+<h3><strong>(c) Renewal process</strong></h3>
 <h4><strong>Where can a person obtain information on which psychiatrists are members of the panel?</strong></h4>
 <p>The list of appointed psychiatrists can be found <a href="/appointed-psychiatrists/" rel="noopener nofollow" target="_blank">here</a>.</p>
 <p>Please also note that appointed psychiatrists are required to inform their
