@@ -151,7 +151,7 @@ Committee.</p>
 </ul>
 <h4><strong>(c) Renewal process</strong></h4>
 <h4><strong>Where can a person obtain information on which psychiatrists are members of the panel?</strong></h4>
-<p>The list of appointed psychiatrists can be found here &lt;to link&gt;.</p>
+<p>The list of appointed psychiatrists can be found <a href="/appointed-psychiatrists/" rel="noopener nofollow" target="_blank">here</a>.</p>
 <p>Please also note that appointed psychiatrists are required to inform their
 subjects in the following circumstances:</p>
 <ul data-tight="true" class="tight">
