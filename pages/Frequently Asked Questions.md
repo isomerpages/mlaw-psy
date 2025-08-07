@@ -78,9 +78,9 @@ application for appointment.</p>
 <li>
 <p><strong>How is the timeframe applied?</strong>
 </p>
-<p>If the application was submitted on 1 June 2026, the COGS must have been
-issued by the relevant licensing authority of the foreign jurisdiction
-between 1 March 2026 and 31 August 2026.</p>
+<p>To illustrate: If the application was submitted on 1 June 2026, the COGS
+must have been issued by the relevant licensing authority of the foreign
+jurisdiction between 1 March 2026 and 31 August 2026.</p>
 <p></p>
 </li>
 <li>
