@@ -15,6 +15,7 @@ Committee, which comprises a Supreme Court Judge, a District Judge, and
 a public officer nominated by the Minister for Health.</p>
 <p>For more information on the application process and appointment criteria,
 please click <a href="/how-to-apply/" rel="noopener nofollow" target="_blank">here</a>.</p>
-<p><em><sup>[1] </sup>There is a transitional phase after &lt;date&gt; where psychiatrists may still give expert evidence in criminal proceedings if certain circumstances apply. Please refer to the frequently-asked-questions.</em>
+<p><em><sup>[1] </sup>There is a transitional phase after &lt;date&gt; where psychiatrists may still give expert evidence in criminal proceedings if certain circumstances apply. Please refer to the </em>
+<a href="/faqs/" rel="noopener nofollow" target="_blank">frequently-asked-questions</a><em>.</em>
 </p>
 <p></p>
