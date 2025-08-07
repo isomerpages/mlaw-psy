@@ -66,12 +66,14 @@ particularly if a high volume of applications is being processed at the
 same time.</p>
 <h3><strong>(b)&nbsp;&nbsp; Foreign-registered Psychiatrists</strong></h3>
 <h4><strong>To be appointed to the Panel, a foreign-registered psychiatrist must have a Certificate of Good Standing (“COGS”) that is to be issued by the foreign licensing authority or medical council within 3 months before or after the date of the application.</strong></h4>
+<p></p>
 <ul data-tight="true" class="tight">
 <li>
 <p><strong>What is the reason for this timeframe?</strong>
 </p>
 <p>This ensures that the COGS is current and submitted close in time to the
 application for appointment.</p>
+<p></p>
 </li>
 <li>
 <p><strong>How is the timeframe applied?</strong>
@@ -79,6 +81,7 @@ application for appointment.</p>
 <p>If the application was submitted on 1 June 2026, the COGS must have been
 issued by the relevant licensing authority of the foreign jurisdiction
 between 1 March 2026 and 31 August 2026.</p>
+<p></p>
 </li>
 <li>
 <p><strong>Where must the COGS be obtained from?</strong>
@@ -89,6 +92,7 @@ as a psychiatrist.</p>
 <p>If the applicant is registered and authorised to practise as a psychiatrist
 in multiple jurisdictions, the applicant has to obtain a COGS from each
 of these jurisdictions.</p>
+<p></p>
 </li>
 <li>
 <p><strong>How should the COGS be submitted to the Selection Committee?</strong>
@@ -98,6 +102,7 @@ licensing authority to the Selection Committee <strong><u>directly</u></strong>,
 via &lt;insert email&gt;.</p>
 <p>Please note that the Selection Committee will not be responsible for any
 payments incurred by the applicant arising from requests for the COGS.</p>
+<p></p>
 </li>
 <li>
 <p><strong>What should the COGS contain?</strong>
@@ -130,6 +135,7 @@ as a psychiatrist or medical practitioner</p>
 <li>
 <p>Name, designation and signature of person authorised by the licensing
 authority for the issuance of the COGS.</p>
+<p></p>
 </li>
 </ul>
 </li>
