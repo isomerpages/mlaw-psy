@@ -116,25 +116,26 @@ until your application is approved.</p>
 </li>
 </ul>
 <h3><strong>(d) After your application is processed</strong></h3>
-<p>You will be notified of the outcome of your application after the Selection
-Committee has considered your application.</p>
-<p>If your application was unsuccessful and you wish to file an appeal against
-the Selection Committee’s decision, you may click <a href="/how-to-file-an-appeal-against-the-selection-committee-s-decision/" rel="noopener nofollow" target="_blank">here</a> for
+<p>The applicant will be notified of the outcome of his or her application
+after the Selection Committee has considered the application.</p>
+<p>If the application was unsuccessful and applicant wishes to file an appeal
+against the Selection Committee’s decision, please click <a href="/how-to-file-an-appeal-against-the-selection-committee-s-decision/" rel="noopener nofollow" target="_blank">here</a> for
 information on how to do so.</p>
-<p>If your application is approved by the Selection Committee, you will be
-appointed to the Panel for a period of up to 2 years.</p>
+<p>If the application is approved by the Selection Committee, the applicant
+will be appointed to the Panel for a period of up to 2 years.</p>
 <p>Please take note of the following:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>If you are a psychiatry resident, you must, within 14 days after being
-notified of the outcome of an application to be (a) accredited as a psychiatrist
-by the Specialist Accreditation Board; and (b) registered as a psychiatrist
-in the Register of Specialists, inform the Selection Committee of the outcome.
-Please click <a href="/psychiatry-residents/" rel="noopener nofollow" target="_blank">here</a> to
-submit your notification.</p>
+<p>All psychiatry residents who are appointed to the Panel must, within 14
+days after being notified of the outcome of an application to be (a) accredited
+as a psychiatrist by the Specialist Accreditation Board; and (b) registered
+as a psychiatrist in the Register of Specialists, inform the Selection
+Committee of the outcome. Please click <a href="/psychiatry-residents/" rel="noopener nofollow" target="_blank">here</a> to submit the notification to the
+Selection Committee.</p>
 </li>
 <li>
-<p>You are also advised to familiarise yourself with the <a href="/revocation-proceedings/" rel="noopener nofollow" target="_blank">grounds for revocation and the revocation process</a>.</p>
+<p>All members of the Panel are aadvised to familiarise themselves with the
+<a href="/revocation-proceedings/" rel="noopener nofollow" target="_blank">grounds for revocation and the revocation process</a>.</p>
 </li>
 </ul>
 <p></p>
