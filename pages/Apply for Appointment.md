@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 ---
 <hr>
-<h4><strong>(a) Who needs to be appointed</strong></h4>
+<h3><strong>(a) Who needs to be appointed</strong></h3>
 <p>All psychiatrists who intend to provide expert evidence on a matter concerning
 psychiatry in criminal proceedings in Singapore must be appointed to the
 Panel of Psychiatrists (<strong>"Panel"</strong>).</p>
@@ -13,7 +13,7 @@ Panel of Psychiatrists (<strong>"Panel"</strong>).</p>
 will not be admissible as evidence, unless the transitional circumstances
 apply (see section C below).</p>
 <hr>
-<h4><strong>(b) Criteria for appointment</strong></h4>
+<h3><strong>(b) Criteria for appointment</strong></h3>
 <p>To be appointed to the Panel, the applicant must satisfy the following
 requirements:</p>
 <ol data-tight="true" class="tight">
@@ -63,7 +63,7 @@ competence as an expert witness.</p>
 qualifications outlined above. Applications that do not satisfy the criteria
 will be rejected.</p>
 <hr>
-<h4><strong>(c)&nbsp;&nbsp; How to apply</strong></h4>
+<h3><strong>(c)&nbsp;&nbsp; How to apply</strong></h3>
 <p>If you are a Singapore-registered psychiatrist or a psychiatry resident
 undergoing training in Singapore, please use Form 1 &lt;to link&gt; to
 submit your application.</p>
@@ -115,7 +115,7 @@ on a matter concerning psychiatry until your application is approved.</p>
 <hr>
 </li>
 </ul>
-<h4><strong>(d) After your application is processed</strong></h4>
+<h3><strong>(d) After your application is processed</strong></h3>
 <p>You will be notified of the outcome of your application after the Selection
 Committee has considered your application.</p>
 <p>If your application was unsuccessful and you wish to file an appeal against
