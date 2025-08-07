@@ -6,9 +6,9 @@ description: ""
 ---
 <hr>
 <h3><strong>(a) Who needs to be appointed</strong></h3>
-<p>All psychiatrists who intend to provide expert evidence on a matter concerning
-psychiatry in criminal proceedings in Singapore must be appointed to the
-Panel of Psychiatrists (<strong>"Panel"</strong>).</p>
+<p>All psychiatrists who intend or wish to provide expert evidence on a matter
+concerning psychiatry in criminal proceedings in Singapore must be appointed
+to the Panel of Psychiatrists (<strong>"Panel"</strong>).</p>
 <p>Expert opinion provided by a psychiatrist who is not a member of the Panel
 will not be admissible as evidence, unless the transitional circumstances
 apply (see section C below).</p>
