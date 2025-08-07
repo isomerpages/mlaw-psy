@@ -188,13 +188,13 @@ commenced against them by the Selection Committee; and</p>
 <p>If the psychiatrist was <strong>not</strong> a member of the Panel at the
 time his expert evidence was adduced (e.g. if his expert report was tendered
 in Court or he had given oral testimony as an expert witness in the proceedings)
-in the criminal proceedings, his expert evidence would be <u>not</u> be admissible.</p>
+in the criminal proceedings, his expert evidence would <u>not</u> be admissible.</p>
 <p>If the psychiatrist was a member of the Panel at the time his expert evidence
 was adduced in the criminal proceedings, his expert evidence would be admissible,
 even if he ceases to be a member of the Panel thereafter. However, the
 Court may determine the weight that should be given to the psychiatrist’s
 evidence, after considering all the circumstances of the case.</p>
-<h3><strong>(a)&nbsp;Others</strong></h3>
+<h3><strong>(e)&nbsp;Others</strong></h3>
 <h4><strong>How many psychiatrists are expected to be appointed to the Panel?</strong></h4>
 <p>There is no quota to the Panel. We welcome all psychiatrists who wish
 to give expert evidence in criminal proceedings to apply.</p>
