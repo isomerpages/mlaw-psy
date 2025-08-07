@@ -63,11 +63,11 @@ Court matter and the reasons why the application was not submitted earlier.</p>
 on case-by-case basis, it may not be feasible to accommodate every request,
 particularly if a high volume of applications is being processed at the
 same time.</p>
-<h4><strong>What happens when the application is successful? </strong></h4>
+<h4><strong>What happens when the application is successful?</strong></h4>
 <p>The successful applicant will be notified of the outcome of the application.
 The applicant’s name will also be listed as a member of the Panel found
 <a href="/appointed-psychiatrists/" rel="noopener nofollow" target="_blank">here</a>.</p>
-<h4><strong>What happens the application is unsuccessful? </strong></h4>
+<h4><strong>What happens the application is unsuccessful?</strong></h4>
 <p>The unsuccessful applicant will be given the Selection Committee’s reason(s)
 for refusing the appointment, and can decide whether to appeal against
 the decision of the Selection Committee. More information about the appeal
@@ -75,7 +75,7 @@ process can be found <a href="/how-to-file-an-appeal-against-the-selection-commi
 <p>Please note that unless allowed by the Selection Committee, the unsuccessful
 applicant is not able to make another application until at least one year
 after the date of the refusal.</p>
-<h4><strong>How long is the appointment period? </strong></h4>
+<h4><strong>How long is the appointment period?</strong></h4>
 <p>Each appointment is for a period of up to 2 years. The applicant will
 be notified of the duration of his or her appointment.</p>
 <hr>
@@ -170,7 +170,7 @@ Committee.</p>
 <p>Renewal applications may be submitted no earlier than 3 months prior to
 the expiry of the psychiatrist’s current appointment. More details on the
 renewal process will be shared in due course.</p>
-<h3><strong>(d) Engaging an appointed psychiatrist </strong></h3>
+<h3><strong>(d) Engaging an appointed psychiatrist</strong></h3>
 <h4><strong>Where can a person obtain information on which psychiatrists are members of the panel?</strong></h4>
 <p>The list of appointed psychiatrists can be found <a href="/appointed-psychiatrists/" rel="noopener nofollow" target="_blank">here</a>.</p>
 <p>Please also note that appointed psychiatrists are required to inform their
@@ -194,16 +194,16 @@ was adduced in the criminal proceedings, his expert evidence would be admissible
 even if he ceases to be a member of the Panel thereafter. However, the
 Court may determine the weight that should be given to the psychiatrist’s
 evidence, after considering all the circumstances of the case.</p>
-<p></p>
 <h3><strong>(a)&nbsp;Others</strong></h3>
 <h4><strong>How many psychiatrists are expected to be appointed to the Panel?</strong></h4>
 <p>There is no quota to the Panel. We welcome all psychiatrists who wish
 to give expert evidence in criminal proceedings to apply.</p>
-<h4><strong>Is there a requirement to take standardised positions as members of the Panel when giving expert evidence?</strong></h4>
+<h4><strong>Is there a requirement to adopt standardised positions as members of the Panel when giving expert evidence?</strong></h4>
 <p>No. Being a member of the Panel does not change the existing practice
-of giving evidence based on the psychiatrist’s assessment. As an expert,
-the psychiatrist’s duty is to assist the Court on matters within his or
-her expertise and should not be dependent on others’ opinions.</p>
-<p><strong>Are psychiatrists provided remuneration for being on the Panel?</strong>
-</p>
-<p></p>
+of giving evidence based on the psychiatrist’s independent assessment.
+As an expert, the psychiatrist’s duty is to assist the Court on matters
+within his or her expertise and his expert opinion should not be influenced
+by the views of others.</p>
+<h4><strong>Are psychiatrists provided remuneration for being on the Panel?</strong></h4>
+<p>No. Being a member of the Panel does not change the existing practice
+of the psychiatrist to be paid by the party which engages him or her.</p>
