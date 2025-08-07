@@ -11,6 +11,7 @@ Panel of Psychiatrists (<strong>"Panel"</strong>).</p>
 <p>Expert opinion provided by a psychiatrist who is not a member of the Panel
 will not be admissible as evidence, unless the transitional circumstances
 apply (see section C below).</p>
+<hr>
 <h4><strong>(b) Criteria for appointment</strong></h4>
 <p>To be appointed to the Panel, the applicant must satisfy the following
 requirements:</p>
@@ -60,6 +61,7 @@ competence as an expert witness.</p>
 <p>Before submitting your application, please ensure that you meet the professional
 qualifications outlined above. Applications that do not satisfy the criteria
 will be rejected.</p>
+<hr>
 <h4><strong>(c)&nbsp;&nbsp; How to apply</strong></h4>
 <p>If you are a Singapore-registered psychiatrist or a psychiatry resident
 undergoing training in Singapore, please use Form 1 &lt;to link&gt; to
@@ -109,6 +111,7 @@ to your court cases.</p>
 February 2026 and do not fall within any of the transitional scenarios
 above, you will not be able to provide expert evidence in criminal proceedings
 on a matter concerning psychiatry until your application is approved.</p>
+<hr>
 </li>
 </ul>
 <h4><strong>(d) After your application is processed</strong></h4>
