@@ -4,6 +4,7 @@ permalink: /how-to-apply/
 variant: tiptap
 description: ""
 ---
+<hr>
 <h4><strong>(a) Who needs to be appointed</strong></h4>
 <p>All psychiatrists who intend to provide expert evidence on a matter concerning
 psychiatry in criminal proceedings in Singapore must be appointed to the
