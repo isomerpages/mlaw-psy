@@ -4,6 +4,34 @@ permalink: /faqs/
 variant: tiptap
 description: ""
 ---
+<h3></h3>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">Application process and appointment</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">Foreign-registered psychiatrists</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">Renewal process</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">Engaging an appointed psychiatrist</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">Others</div>
+</div>
+</div>
+</div>
 <h3><strong>(a) Application process and appointment</strong></h3>
 <h4><strong>Will there be a transitional phase where a psychiatrist’s expert evidence is still admissible even though he or she is not a member of the Panel?</strong></h4>
 <p>Yes. To assist psychiatrists to transition to the new regime, there will
