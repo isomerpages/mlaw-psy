@@ -1,0 +1,4 @@
+collections:
+  faq-pages:
+    output: true
+    order: []
