@@ -2,5 +2,6 @@ collections:
   faqs:
     output: true
     order:
+      - FAQ categories/Application process or appointment.md
       - FAQ categories/.keep
       - Frequently Asked Questions.md
