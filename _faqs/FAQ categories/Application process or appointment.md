@@ -5,18 +5,8 @@ variant: tiptap
 description: ""
 third_nav_title: FAQ categories
 ---
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary><strong>Will there be a transitional phase where a psychiatrist’s expert evidence is still admissible even though he or she is not a member of the Panel? </strong>Yes.
-To assist psychiatrists to transition to the new regime, there will be
-a transitional phase where expert evidence by psychiatrists who are not
-on the Panel will remain admissible in criminal proceedings if any of the
-following scenarios apply:</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-</div>
-</details>
-</div>
+<p><strong>Will there be a transitional phase where a psychiatrist’s expert evidence is still admissible even though he or she is not a member of the Panel?</strong>
+</p>
 <p>Yes. To assist psychiatrists to transition to the new regime, there will
 be a transitional phase where expert evidence by psychiatrists who are
 not on the Panel will remain admissible in criminal proceedings if any
