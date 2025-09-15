@@ -1,10 +1,19 @@
 ---
 title: Application process or appointment
 permalink: /faqs/application-process/
-variant: markdown
+variant: tiptap
 description: ""
 third_nav_title: FAQ categories
 ---
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>test</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Each appointment is for a period of up to 2 years. The applicant will
+be notified of the duration of his or her appointment.</p>
+</div>
+</details>
+</div>
 <h4><strong>Will there be a transitional phase where a psychiatrist’s expert evidence is still admissible even though he or she is not a member of the Panel?</strong></h4>
 <p>Yes. To assist psychiatrists to transition to the new regime, there will
 be a transitional phase where expert evidence by psychiatrists who are
@@ -76,5 +85,4 @@ process can be found <a href="https://cms.isomer.gov.sg/how-to-file-an-appeal-ag
 applicant is not able to make another application until at least one year
 after the date of the refusal.</p>
 <h4><strong>How long is the appointment period?</strong></h4>
-<p>Each appointment is for a period of up to 2 years. The applicant will
-be notified of the duration of his or her appointment.</p>
+<p></p>
