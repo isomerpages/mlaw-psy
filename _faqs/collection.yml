@@ -1,5 +1,5 @@
 collections:
-  faq-pages:
+  faqs:
     output: true
     order:
       - Application process or appointment.md
