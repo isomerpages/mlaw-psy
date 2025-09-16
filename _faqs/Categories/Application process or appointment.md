@@ -5,6 +5,10 @@ variant: markdown
 description: ""
 third_nav_title: Categories
 ---
+<style type="text/css">
+    p { margin:0 }
+</style>
+
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>test</summary>
