@@ -85,4 +85,5 @@ process can be found <a href="https://cms.isomer.gov.sg/how-to-file-an-appeal-ag
 applicant is not able to make another application until at least one year
 after the date of the refusal.</p>
 <h4><strong>How long is the appointment period?</strong></h4>
-<p></p>
+<p>Each appointment is for a period of up to 2 years. The applicant will
+be notified of the duration of his or her appointment.</p>
