@@ -3,6 +3,6 @@ collections:
     output: true
     order:
       - Frequently Asked Questions.md
-      - FAQ categories/Foreign registered psychiatrists.md
       - FAQ categories/.keep
       - FAQ categories/Application process or appointment.md
+      - FAQ categories/Foreign registered psychiatrists.md
