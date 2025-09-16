@@ -3,9 +3,9 @@ collections:
     output: true
     order:
       - Frequently Asked Questions.md
-      - FAQ categories/.keep
-      - FAQ categories/Application process or appointment.md
-      - FAQ categories/Foreign registered psychiatrists.md
-      - FAQ categories/Renewal process.md
-      - FAQ categories/Engaging an appointed psychiatrist.md
-      - FAQ categories/Others.md
+      - Categories/.keep
+      - Categories/Application process or appointment.md
+      - Categories/Foreign registered psychiatrists.md
+      - Categories/Renewal process.md
+      - Categories/Engaging an appointed psychiatrist.md
+      - Categories/Others.md
