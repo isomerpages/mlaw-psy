@@ -11,6 +11,11 @@ sections:
         evidence in criminal court proceedings in Singapore
       background: /images/hero-banner.png
       title: Panel of Psychiatrists
-      button: About
-      url: /about/
+      dropdown:
+        title: Apply to join the Panel
+        options:
+          - title: SMC-registered psychiatrists
+            url: https://form.gov.sg/682fd0591acd13ac45d05af6
+          - title: Non-SMC psychiatrists
+            url: https://form.gov.sg/682fd0591acd13ac45d05af6
 ---
