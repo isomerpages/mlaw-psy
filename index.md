@@ -9,7 +9,7 @@ sections:
   - hero:
       subtitle: Safeguarding the objectivity and quality of psychiatric expert
         evidence in criminal court proceedings in Singapore
-      background: /images/hero-banner.png
+      background: /images/PsychPanel_Website_Homepage_29Sep25.jpg
       title: Panel of Psychiatrists
       dropdown:
         title: Apply to join the Panel
