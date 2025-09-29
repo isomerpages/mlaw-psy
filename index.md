@@ -2,7 +2,7 @@
 layout: homepage
 title: Panel of Psychiatrists
 description: An Isomer site of the Singapore Government
-image: /images/isomer-logo.svg
+image: /images/panel_of_psychiatrists_logo.png
 permalink: /
 notification: ""
 sections:
