@@ -3,7 +3,7 @@ url: https://www.open.gov.sg
 favicon: /images/Psych_Panel_logo.png
 colors:
   primary-color: "#4a90e2"
-  secondary-color: "#b5b8bf"
+  secondary-color: "#707277"
   media-colors:
     - title: media-color-one
       color: "#055d75"
