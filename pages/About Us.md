@@ -4,7 +4,7 @@ permalink: /about/
 variant: tiptap
 description: ""
 ---
-<p>The Panel of Psychiatrists (<strong>“Panel”</strong>) will be/was established
+<p>The Panel of Psychiatrists (<strong>“Panel”</strong>) will be established
 on &lt;date&gt; to safeguard the objectivity and quality of psychiatric
 expert evidence in criminal proceedings in Singapore.</p>
 <p>Under this regime, only psychiatrists who are members of the Panel may
