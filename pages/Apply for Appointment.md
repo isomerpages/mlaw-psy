@@ -68,7 +68,7 @@ will be rejected.</p>
 2026&gt;.</p>
 <p>The information that an applicant will need to apply for appointment are
 as follows:</p>
-<ul data-tight="true" class="tight">
+<ol data-tight="true" class="tight">
 <li>
 <p>Name and contact details</p>
 </li>
@@ -104,10 +104,11 @@ training</p>
 arranged or will arrange for a certificate of good standing that is issued
 within 3 months prior or after the application, to be delivered to the
 Selection Committee</p>
-<p></p>
+</li>
+</ol>
 <p>To assist psychiatrists to transition to the new regime, there will be
-a transitional phase where expert evidence by psychiatrists who are <u>not</u> on
-the Panel will remain admissible in criminal proceedings in any of the
+a transitional phase where expert evidence by psychiatrists who are not
+on the Panel will remain admissible in criminal proceedings in any of the
 following scenarios:</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -134,8 +135,6 @@ or assessment of the subject had started before 1 January 2026 (TBC).</p>
 </ul>
 <p></p>
 <hr>
-</li>
-</ul>
 <h3><strong>(d) After the application is processed</strong></h3>
 <p>The applicant will be notified of the outcome of his or her application
 after the Selection Committee has considered the application.</p>
