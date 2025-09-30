@@ -64,13 +64,47 @@ qualifications outlined above. Applications that do not satisfy the criteria
 will be rejected.</p>
 <hr>
 <h3><strong>(c)&nbsp;&nbsp; How to apply</strong></h3>
-<p>If you are a <strong>Singapore-registered psychiatrist</strong> or a <strong>psychiatry resident undergoing training in Singapore</strong>,
-please use Form 1 &lt;to link&gt; to submit your application.</p>
-<p>If you are a <strong>foreign-registered psychiatrist</strong>, please use
-Form 2 &lt;to link&gt; to submit your application.&nbsp;</p>
-<p><strong><u>Important note to applicants</u></strong>:</p>
+<p>The application forms will be available on the website on &lt;1 January
+2026&gt;.</p>
+<p>The information that an applicant will need to apply for appointment are
+as follows:</p>
 <ul data-tight="true" class="tight">
 <li>
+<p>Name and contact details</p>
+</li>
+<li>
+<p>Information on the applicant's basic medical degree and training/qualifications</p>
+</li>
+<li>
+<p>Current job title and name of employer</p>
+</li>
+<li>
+<p>Jurisdiction(s) in which the applicant is registered and authorised to
+practise as a psychiatrist at the time of application</p>
+</li>
+<li>
+<p>Details of any disciplinary action that has been taken or is pending against
+the applicant as a medical practitioner or psychiatrist, in Singapore or
+elsewhere &nbsp;</p>
+</li>
+<li>
+<p>Details of any conviction or pending court proceedings for offences involving
+dishonesty, fraud, obstruction of justice, in Singapore or elsewhere &nbsp;</p>
+</li>
+<li>
+<p>For Singapore-registered psychiatrists and local psychiatry residents,
+medical registration number</p>
+</li>
+<li>
+<p>For local psychiatry residents, name of supervisor and start date of psychiatry
+training</p>
+</li>
+<li>
+<p>For foreign-registered psychiatrist, declaration that the applicant has
+arranged or will arrange for a certificate of good standing that is issued
+within 3 months prior or after the application, to be delivered to the
+Selection Committee</p>
+<p></p>
 <p>To assist psychiatrists to transition to the new regime, there will be
 a transitional phase where expert evidence by psychiatrists who are <u>not</u> on
 the Panel will remain admissible in criminal proceedings in any of the
@@ -98,20 +132,7 @@ the psychiatrist is still within the timelines for filing an appeal.</p>
 or assessment of the subject had started before 1 January 2026 (TBC).</p>
 </li>
 </ul>
-</li>
-<li>
-<p>We <strong><u>strongly encourage</u></strong> all interested applicants
-to <strong>submit your application between 1 January 2026 and 31 January 2026 and no later than 28 February 2026 </strong>to
-facilitate your timely appointment to the Panel and avoid disruption to
-your court cases.</p>
 <p></p>
-</li>
-<li>
-<p>In particular, <strong><u>please note</u></strong> that if you submit your
-application <strong>after 28 February 2026</strong> and do not fall within
-any of the transitional scenarios above, you will not be able to provide
-expert evidence in criminal proceedings on a matter concerning psychiatry
-until your application is approved.</p>
 <hr>
 </li>
 </ul>
@@ -130,8 +151,7 @@ will be appointed to the Panel for a period of up to 2 years.</p>
 days after being notified of the outcome of an application to be (a) accredited
 as a psychiatrist by the Specialist Accreditation Board; and (b) registered
 as a psychiatrist in the Register of Specialists, inform the Selection
-Committee of the outcome. Please click <a href="/psychiatry-residents/" rel="noopener nofollow" target="_blank">here</a> to submit the notification to the
-Selection Committee.</p>
+Committee of the outcome.</p>
 </li>
 <li>
 <p>All members of the Panel are aadvised to familiarise themselves with the
