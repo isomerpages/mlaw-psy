@@ -8,7 +8,7 @@ image: ""
 variant: tiptap
 ---
 <h3><strong>(a) When can an applicant or member of the Panel file an appeal?</strong></h3>
-<p>An appeal may be made to the Chief Justice if:</p>
+<p>An appeal may be made if:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>The applicant’s application for appointment to the Panel of Psychiatrists
