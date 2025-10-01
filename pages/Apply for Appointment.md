@@ -73,7 +73,7 @@ as follows:</p>
 <p>Name and contact details</p>
 </li>
 <li>
-<p>Information on the applicant's basic medical degree and training/qualifications</p>
+<p>Basic medical degree, training and qualifications relating to psychiatry</p>
 </li>
 <li>
 <p>Current job title and name of employer</p>
@@ -83,6 +83,9 @@ as follows:</p>
 practise as a psychiatrist at the time of application</p>
 </li>
 <li>
+<p>If applicable:</p>
+<ul data-tight="true" class="tight">
+<li>
 <p>Details of any disciplinary action that has been taken or is pending against
 the applicant as a medical practitioner or psychiatrist, in Singapore or
 elsewhere &nbsp;</p>
@@ -91,9 +94,11 @@ elsewhere &nbsp;</p>
 <p>Details of any conviction or pending court proceedings for offences involving
 dishonesty, fraud, obstruction of justice, in Singapore or elsewhere &nbsp;</p>
 </li>
+</ul>
+</li>
 <li>
 <p>For Singapore-registered psychiatrists and local psychiatry residents,
-medical registration number</p>
+registration number with the Singapore Medical Council</p>
 </li>
 <li>
 <p>For local psychiatry residents, name of supervisor and start date of psychiatry
