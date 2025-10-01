@@ -67,7 +67,7 @@ or SMS of the outcome of your submission.</p>
 </ul>
 </li>
 <li>
-<p><strong>Collect the approved OA: </strong>
+<p><strong>Collect the approved OA:</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -86,7 +86,7 @@ OA has been issued by the Court, the appellant must serve the OA on the
 Selection Committee by way of email to &lt;email address&gt;.</p>
 </li>
 <li>
-<p><strong>After filing and serving the OA: </strong>
+<p><strong>After filing and serving the OA:</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
