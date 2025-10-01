@@ -113,11 +113,11 @@ following scenarios:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><strong>Transitional scenario 1: </strong>Where the expert opinion is
-adduced in Court between 1 January 2026 and 28 February 2026 (TBC)</p>
+adduced in Court between 31 December 2025 and 28 February 2026 (TBC)</p>
 </li>
 <li>
-<p><strong>Transitional scenario 2:</strong>Where the psychiatrist has submitted
-his application between 1 January 2026 and 28 February 2026 (TBC); and</p>
+<p><strong>Transitional scenario 2: </strong>Where the psychiatrist has submitted
+his application between 31 December 2025 and 28 February 2026 (TBC); and</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>The application is pending; or</p>
@@ -129,8 +129,8 @@ the psychiatrist is still within the timelines for filing an appeal.</p>
 </ul>
 </li>
 <li>
-<p><strong>Transitional scenario 3:</strong>Where the psychiatrist's treatment
-or assessment of the subject had started before 1 January 2026 (TBC).</p>
+<p><strong>Transitional scenario 3: </strong>Where the psychiatrist's treatment
+or assessment of the subject had started before 31 December 2025 (TBC).</p>
 </li>
 </ul>
 <p></p>
