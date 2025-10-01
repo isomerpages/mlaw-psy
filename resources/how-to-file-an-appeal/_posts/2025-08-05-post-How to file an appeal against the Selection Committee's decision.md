@@ -55,9 +55,53 @@ or opinion that the appellant wishes to adduce; and</p>
 by the lawyer.</p>
 <p>If the appellant is representing himself, the appellant must file the
 documents yourself. Refer to the following steps:</p>
+<ol data-tight="true" class="tight">
+<li>
+<p><strong>File the Original Application (OA): </strong>The OA will have
+to be filed via eLitigation at the <a href="https://www.judiciary.gov.sg/services/elitigation#location" rel="noopener nofollow" target="_blank">LawNet and CrimsonLogic Service Bureau</a>.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>The OA will have to be filed via eLitigation at the <a href="https://www.judiciary.gov.sg/services/elitigation#location" rel="noopener nofollow" target="_blank">LawNet and CrimsonLogic Service Bureau</a>.</p>
+<p>The LawNet &amp; CrimsonLogic Service Bureau will notify you via email
+or SMS of the outcome of your submission.</p>
 </li>
 </ul>
+</li>
+<li>
+<p><strong>Collect the approved OA: </strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>If the court accepts the OA, a copy of the approved OA containing the
+respective court's seal and registrar's signature will be issued via eLitigation.</p>
+</li>
+<li>
+<p>The appellant will have to collect the approved OA from the <a href="https://www.judiciary.gov.sg/services/elitigation#location" rel="noopener nofollow" target="_blank">LawNet and CrimsonLogic Service Bureau</a> and
+arrange for it to be served on the Selection Committee.</p>
+</li>
+</ul>
+</li>
+<li>
+<p><strong>Serve the OA on the Selection Committee: </strong>After the sealed
+OA has been issued by the Court, the appellant must serve the OA on the
+Selection Committee by way of email to &lt;email address&gt;.</p>
+</li>
+<li>
+<p><strong>After filing and serving the OA: </strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>The appeal will be considered by the Chief Justice or a Judge of the Supreme
+Court, with or without a hearing.</p>
+</li>
+<li>
+<p>The appellant may be asked to provide further information or documents,
+or asked to appear before the Judge.</p>
+</li>
+</ul>
+</li>
+<li>
+<p><strong>Outcome of appeal</strong>: The appellant will be notified of
+the outcome of the appeal via email or SMS.</p>
+</li>
+</ol>
 <p></p>
