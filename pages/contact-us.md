@@ -7,7 +7,8 @@ contacts:
   - content:
       - phone: ""
       - email: XXX@gov.sg
-      - other: ""
+      - other: If you are writing on behalf of an organisation, please indicate the name
+          of your organisation and the designation in your organisation.
     title: "Email us at:"
 feedback: https://form.gov.sg/65efb02fc89f9e178e11a3fe
 ---
