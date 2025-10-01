@@ -19,4 +19,4 @@ be:</p>
 </li>
 </ul>
 <p>inform the Selection Committee of the outcome.</p>
-<p>Please click here to submit your notification.</p>
+<p></p>
