@@ -3,7 +3,7 @@ url: https://www.open.gov.sg
 favicon: /images/panel_of_psychiatrists_logo.png
 colors:
   primary-color: "#2670cd"
-  secondary-color: "#707277"
+  secondary-color: "#868991"
   media-colors:
     - title: media-color-one
       color: "#055d75"
