@@ -41,11 +41,11 @@ of the following scenarios apply:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><strong>Transitional Scenario 1: </strong>Where the expert opinion is
-adduced in Court between 1 January 2026 and 28 February 2026 (TBC)</p>
+adduced in Court between 31 December 2025 and 28 February 2026</p>
 </li>
 <li>
 <p><strong>Transitional Scenario 2: </strong>Where the psychiatrist has submitted
-his application between 1 January 2026 and 28 February 2026 (TBC); and</p>
+his application between 31 December 2025 and 28 February 2026; and</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>The application is pending; or</p>
@@ -58,7 +58,7 @@ the psychiatrist is still within the timelines for filing an appeal.</p>
 </li>
 <li>
 <p><strong>Transitional Scenario 3:</strong> Where the psychiatrist's treatment
-or assessment of the subject had started before 1 January 2026 (TBC).</p>
+or assessment of the subject had started before 31 December 2025.</p>
 </li>
 </ul>
 <p>If none of the scenarios above apply, the psychiatrist’s expert opinion
@@ -67,7 +67,7 @@ will not be admissible in criminal proceedings.</p>
 <p>Barring any complications or delays arising from further checks:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>For applications that are received between 1 January 2026 and 31 January 2026</strong>,
+<p><strong>For applications that are received between 31 December 2025 and 31 January 2026</strong>,
 we aim to appoint successful applicants on 1 March 2026. &nbsp;</p>
 </li>
 <li>
@@ -77,24 +77,26 @@ we aim to appoint successful applicants on 1 April 2026.</p>
 </ul>
 <p>Applicants in either of the two categories above may continue to provide
 psychiatric evidence in criminal proceedings even if their application
-is still being processed by the target date, as they fall within Transitional
-Scenario 2.</p>
+is still being processed by the target appointment date, as they fall within
+Transitional Scenario 2.</p>
 <p><strong>For applications received after 28 February 2026</strong>, appointments
 will be made on a monthly basis, at the start of each month.</p>
 <h4><strong>What can a psychiatrist do if he is not a member of the Panel but has an upcoming court matter where he is scheduled to testify as an expert witness on a matter concerning psychiatry?</strong></h4>
-<p>The psychiatrist should submit an application to the Selection Committee
-as soon as possible and send an email to the Secretariat to the Selection
-Committee at &lt;email address&gt; to request for his application to be
-reviewed on an expedited basis. The email should include details on the
-Court matter and the reasons why the application was not submitted earlier.</p>
+<p>The psychiatrist should first check if he falls within any of the Transitional
+Scenarios. If he is not, he should submit an application to the Selection
+Committee as soon as possible and send an email to the Secretariat to the
+Selection Committee at &lt;email address&gt; to request for his application
+to be reviewed on an expedited basis. The email should include details
+on the Court matter and the reasons why the application was not submitted
+earlier.</p>
 <p>Please note that while the Selection Committee will consider genuine requests
 on case-by-case basis, it may not be feasible to accommodate every request,
 particularly if a high volume of applications is being processed at the
 same time.</p>
 <h4><strong>What happens when the application is successful?</strong></h4>
-<p>The successful applicant will be notified of the outcome of the application.
-The applicant’s name will also be listed as a member of the Panel found
-<a href="/appointed-psychiatrists/" rel="noopener nofollow" target="_blank">here</a>.</p>
+<p>The successful applicant will be notified of the outcome of the application.</p>
+<p>The applicant’s name will be published on the website as a member of the
+Panel.</p>
 <h4><strong>What happens the application is unsuccessful?</strong></h4>
 <p>The unsuccessful applicant will be given the Selection Committee’s reason(s)
 for refusing the appointment, and can decide whether to appeal against
@@ -114,8 +116,8 @@ be notified of the duration of his or her appointment.</p>
 <li>
 <p><strong>What is the reason for this timeframe?</strong>
 </p>
-<p>This ensures that the COGS is current and submitted close in time to the
-application for appointment.</p>
+<p>This ensures that the COGS is both current and submitted in a timely manner
+after application for appointment.</p>
 <p></p>
 </li>
 <li>
@@ -201,7 +203,8 @@ renewal process will be shared in due course.</p>
 <hr>
 <h3><strong>(d) Engaging an appointed psychiatrist</strong></h3>
 <h4><strong>Where can a person obtain information on which psychiatrists are members of the panel?</strong></h4>
-<p>The list of appointed psychiatrists can be found <a href="/appointed-psychiatrists/" rel="noopener nofollow" target="_blank">here</a>.</p>
+<p>The list of appointed psychiatrists will be published on the website after
+the Panel operationalises.</p>
 <p>Please also note that appointed psychiatrists are required to inform their
 subjects in the following circumstances:</p>
 <ul data-tight="true" class="tight">
@@ -217,7 +220,7 @@ commenced against them by the Selection Committee; and</p>
 <p>If the psychiatrist was <strong>not</strong> a member of the Panel at the
 time his expert evidence was adduced (e.g. if his expert report was tendered
 in Court or he had given oral testimony as an expert witness in the proceedings)
-in the criminal proceedings, his expert evidence would <u>not</u> be admissible.</p>
+in the criminal proceedings, his expert evidence will <u>not</u> be admissible.</p>
 <p>If the psychiatrist was a member of the Panel at the time his expert evidence
 was adduced in the criminal proceedings, his expert evidence would be admissible,
 even if he ceases to be a member of the Panel thereafter. However, the
