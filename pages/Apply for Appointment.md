@@ -64,8 +64,8 @@ qualifications outlined above. Applications that do not satisfy the criteria
 will be rejected.</p>
 <hr>
 <h3><strong>(c)&nbsp;&nbsp; How to apply</strong></h3>
-<p>The application forms will be available on the website on &lt;1 January
-2026&gt;.</p>
+<p>The application forms will be available on the website on &lt;1 31 December
+2025&gt;.</p>
 <p>The information that an applicant will need to apply for appointment are
 as follows:</p>
 <ul data-tight="true" class="tight">
