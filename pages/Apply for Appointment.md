@@ -63,11 +63,11 @@ competence as an expert witness.</p>
 qualifications outlined above. Applications that do not satisfy the criteria
 will be rejected.</p>
 <hr>
-<h3><strong>(c)&nbsp;&nbsp; How to apply</strong></h3>
-<p>The application forms will be available on the website on 31 December
-2025.</p>
-<p>The information that an applicant will need to apply for appointment are
-as follows:</p>
+<h3><strong>(c)&nbsp;&nbsp; How and when to apply</strong></h3>
+<p><strong>The application forms will be available on the website on <u>31 December 2025</u>.</strong>
+</p>
+<p><strong>The information that an applicant will need to apply for appointment are as follows:</strong>
+</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Name and contact details</p>
@@ -111,10 +111,8 @@ within 3 months prior or after the application, to be delivered to the
 Selection Committee</p>
 </li>
 </ul>
-<p>To assist psychiatrists to transition to the new regime, there will be
-a transitional phase where expert evidence by psychiatrists who are not
-on the Panel will remain admissible in criminal proceedings in any of the
-following scenarios:</p>
+<p><strong>To assist psychiatrists to transition to the new regime, there will be a transitional phase where expert evidence by psychiatrists who are not on the Panel will remain admissible in criminal proceedings in any of the following scenarios:</strong>
+</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><strong>Transitional scenario 1: </strong>Where the expert opinion is
