@@ -49,4 +49,15 @@ or opinion that the appellant wishes to adduce; and</p>
 <p>enclose the Selection Committee’s decision and reasons.</p>
 </li>
 </ul>
+<h3><strong>(d) How can an appeal be filed?</strong></h3>
+<p>An appeal may be filed personally or through a lawyer.</p>
+<p>If the appellant is represented by a lawyer, the documents will be filed
+by the lawyer.</p>
+<p>If the appellant is representing himself, the appellant must file the
+documents yourself. Refer to the following steps:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>The OA will have to be filed via eLitigation at the <a href="https://www.judiciary.gov.sg/services/elitigation#location" rel="noopener nofollow" target="_blank">LawNet and CrimsonLogic Service Bureau</a>.</p>
+</li>
+</ul>
 <p></p>
