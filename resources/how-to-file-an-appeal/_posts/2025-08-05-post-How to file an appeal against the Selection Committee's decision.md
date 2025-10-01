@@ -20,10 +20,33 @@ Committee</p>
 </li>
 </ul>
 <h3><strong>(b) What are the timelines to file an appeal?</strong></h3>
-<p>An appeal <strong>within 28 days</strong> after the date of the Selection
-Committee's decision.</p>
-<p>If more time is required to file an appeal, an application may be made
-to the Chief Justice for an extension of time by &lt;For Sup Ct's inputs
-on how an extension of time may be sought&gt;.</p>
-<h3><strong>(c) How can an appeal be filed?</strong></h3>
-<p>&lt;For Sup Ct's inputs&gt;</p>
+<p>An appeal must be filed and served on the Selection Committee <strong>within 28 days</strong> after
+the date of the Selection Committee's decision.</p>
+<p>If more time is required to file an appeal, an application for an extension
+of time may be made by way of email to <a rel="noopener noreferrer nofollow" target="_blank">SUPCT_REGISTRY@judiciary.gov.sg</a>.</p>
+<h3><strong>(c) What form must the appeal be filed in?</strong></h3>
+<p>The appeal must be filed by way of an original application (OA) in Form
+16 of <a href="https://epd2021-supremecourt.judiciary.gov.sg/appendices" rel="noopener nofollow" target="_blank">Appendix A of the Supreme Court Practice Directions</a>.</p>
+<p>Please note that the OA must include the following information:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>identify the decision appealed against;</p>
+</li>
+<li>
+<p>if the appeal is against a decision not to renew the appointment of the
+appellant, state the date on which the appellant’s latest appointment as
+a member of the Panel expires or has expired;</p>
+</li>
+<li>
+<p>state the reasons in support of the appeal;</p>
+</li>
+<li>
+<p>state whether the appellant wishes to adduce any further information,
+document or opinion and, if so, describe the further information, document
+or opinion that the appellant wishes to adduce; and</p>
+</li>
+<li>
+<p>enclose the Selection Committee’s decision and reasons.</p>
+</li>
+</ul>
+<p></p>
