@@ -85,10 +85,10 @@ the psychiatrist will be notified of the decision and the reasons for the
 decision.</p>
 <p><strong>After being notified of the Selection Committee’s decision, the psychiatrist must inform each of his or her subject of the revocation.</strong>
 </p>
-<p>The psychiatrist may file an appeal to the Chief Justice within 28 days
-after the date of the Selection Committee’s decision. For information on
-how to file an appeal or how to seek an extension of time to file an appeal,
-please click <a href="/how-to-file-an-appeal-against-the-selection-committee-s-decision/" rel="noopener nofollow" target="_blank">here</a>.</p>
+<p>The psychiatrist may file an appeal within 28 days (or such extended period
+as permitted) after the date of the Selection Committee’s decision. For
+information on how to file an appeal or how to seek an extension of time
+to file an appeal, please click <a href="/how-to-file-an-appeal-against-the-selection-committee-s-decision/" rel="noopener nofollow" target="_blank">here</a>.</p>
 <p>If no appeal is filed, the revocation takes effect 28 days after the date
 of the Selection Committee’s decision.</p>
 <hr>
