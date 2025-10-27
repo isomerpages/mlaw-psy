@@ -11,7 +11,4 @@ sections:
         evidence in criminal court proceedings in Singapore
       background: /images/PsychPanel_Website_Homepage_29Sep25.jpg
       title: Panel of Psychiatrists
-      dropdown:
-        title: Apply to join the Panel
-        options: []
 ---
