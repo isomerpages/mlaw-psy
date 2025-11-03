@@ -23,7 +23,7 @@ Committee</p>
 <p>An appeal must be filed and served on the Selection Committee <strong>within 28 days</strong> after
 the date of the Selection Committee's decision.</p>
 <p>If more time is required to file an appeal, an application for an extension
-of time may be made by way of email to <a rel="noopener noreferrer nofollow" target="_blank">SUPCT_REGISTRY@judiciary.gov.sg</a>.</p>
+of time may be filed by way of email to <a rel="noopener noreferrer nofollow" target="_blank">SUPCT_REGISTRY@judiciary.gov.sg</a>.</p>
 <h3><strong>(c) What form must the appeal be filed in?</strong></h3>
 <p>The appeal must be filed by way of an original application (OA) in Form
 16 of <a href="https://epd2021-supremecourt.judiciary.gov.sg/appendices" rel="noopener nofollow" target="_blank">Appendix A of the Supreme Court Practice Directions</a>.</p>
