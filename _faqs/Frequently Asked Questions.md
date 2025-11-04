@@ -215,19 +215,18 @@ subjects in the following circumstances:</p>
 commenced against them by the Selection Committee; and</p>
 </li>
 <li>
-<p>their appointment is revoked by the Selection Committee. &nbsp;</p>
+<p>Their appointment is revoked by the Selection Committee. &nbsp;</p>
 </li>
 </ul>
 <h4><strong>What happens if a person engages a psychiatrist who is not or ceases to be a member of the Panel?</strong></h4>
 <p>If the psychiatrist was <strong>not</strong> a member of the Panel at the
-time his expert evidence was adduced (e.g. if his expert report was tendered
-in Court or he had given oral testimony as an expert witness in the proceedings)
-in the criminal proceedings, his expert evidence will <u>not</u> be admissible.</p>
+time his expert evidence was given in Court, his expert evidence will <u>not</u> be
+admissible.</p>
 <p>If the psychiatrist was a member of the Panel at the time his expert evidence
-was adduced in the criminal proceedings, his expert evidence would be admissible,
-even if he ceases to be a member of the Panel thereafter. However, the
-Court may determine the weight that should be given to the psychiatrist’s
-evidence, after considering all the circumstances of the case.</p>
+was given in Court, his expert evidence remains admissible, even if he
+ceases to be a member of the Panel thereafter. However, the Court may determine
+the weight that should be given to the psychiatrist’s evidence, after considering
+all the circumstances of the case.</p>
 <hr>
 <h3><strong>(e)&nbsp;Others</strong></h3>
 <h4><strong>How many psychiatrists are expected to be appointed to the Panel?</strong></h4>
