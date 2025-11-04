@@ -146,7 +146,7 @@ of these jurisdictions.</p>
 </p>
 <p>The applicant has to arrange for the COGS to be sent from the foreign
 licensing authority to the Selection Committee <strong><u>directly</u></strong>,
-via &lt;insert email&gt;.</p>
+via Secretariat@psychpanel.gov.sg.</p>
 <p>Please note that the Selection Committee will not be responsible for any
 payments incurred by the applicant arising from requests for the COGS.</p>
 <p></p>
