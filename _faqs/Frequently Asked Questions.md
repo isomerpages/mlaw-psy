@@ -87,10 +87,10 @@ each month.</p>
 <p>The psychiatrist should first check if he falls within any of the Transitional
 Scenarios. If he is not, he should submit an application to the Selection
 Committee as soon as possible and send an email to the Secretariat to the
-Selection Committee at &lt;email address&gt; to request for his application
-to be reviewed on an expedited basis. The email should include details
-on the Court matter and the reasons why the application was not submitted
-earlier.</p>
+Selection Committee at Secretariat@psychpanel.gov.sg to request for his
+application to be reviewed on an expedited basis. The email should include
+details on the Court matter and the reasons why the application was not
+submitted earlier.</p>
 <p>Please note that while the Selection Committee will consider genuine requests
 on case-by-case basis, it may not be feasible to accommodate every request,
 particularly if a high volume of applications is being processed at the
