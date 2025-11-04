@@ -83,7 +83,7 @@ arrange for it to be served on the Selection Committee.</p>
 <li>
 <p><strong>Serve the OA on the Selection Committee: </strong>After the sealed
 OA has been issued by the Court, the appellant must serve the OA on the
-Selection Committee by way of email to &lt;email address&gt;.</p>
+Selection Committee by way of email to Secretariat@psychpanel.gov.sg.</p>
 </li>
 <li>
 <p><strong>After filing and serving the OA:</strong>
