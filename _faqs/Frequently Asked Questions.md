@@ -79,8 +79,10 @@ we aim to appoint successful applicants on 1 April 2026.</p>
 psychiatric evidence in criminal proceedings even if their application
 is still being processed by the target appointment date, as they fall within
 Transitional Scenario 2.</p>
-<p><strong>For applications received after 28 February 2026</strong>, appointments
-will be made on a monthly basis, at the start of each month.</p>
+<p><strong>For applications received after 28 February 2026</strong>, the
+expected turnaround time is around 1 to 2 months, if the application is
+in order. Appointments will be made on a monthly basis, at the start of
+each month.</p>
 <h4><strong>What can a psychiatrist do if he is not a member of the Panel but has an upcoming court matter where he is scheduled to testify as an expert witness on a matter concerning psychiatry?</strong></h4>
 <p>The psychiatrist should first check if he falls within any of the Transitional
 Scenarios. If he is not, he should submit an application to the Selection
