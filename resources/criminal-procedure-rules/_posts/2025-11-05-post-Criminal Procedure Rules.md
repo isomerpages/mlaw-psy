@@ -14,4 +14,4 @@ the particulars that are required in an application for appointment to
 the Panel, the appointment criteria and procedures relating to revocation
 and appeal.</p>
 <p>Please click here to access the Rules and here for the Criminal Justice
-Reform (Savings and Transitional Provisions) Regulations 2025.</p>
+Reform (Saving and Transitional Provisions) Regulations 2025.</p>
